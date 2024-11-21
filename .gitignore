@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# OAuth tokens
+token.pickle
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/

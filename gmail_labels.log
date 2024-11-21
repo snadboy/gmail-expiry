@@ -1,0 +1,2749 @@
+2024-11-21 09:22:14 - INFO - {
+  "KEEP_7D": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ],
+  "KEEP": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "rschless3@gmail.com",
+    "robert@schless.com",
+    "kwdsheas@gmail.com",
+    "kwdsheas@sbcglobal.net",
+    "dinicejbp@gmail.com",
+    "patrick.schless@gmail.com",
+    "patrick@schless.com",
+    "jobymail@gmail.com",
+    "nila.am.k@gmail.com",
+    "nilakannankeril14@augie.onmicrosoft.com",
+    "nilakannankeril14@augustana.edu",
+    "bealifesaver@gmail.com",
+    "duchessdepaz@gmail.com",
+    "mamesmom@gmail.com",
+    "anu_george@yahoo.com",
+    "4anugeorge@gmail.com",
+    "ageorge@hometownone.com",
+    "john@schless.com",
+    "jmsphone78@gmail.com",
+    "joeygpaul@gmail.com",
+    "ann@schless.com",
+    "monicaleonelle@gmail.com"
+  ],
+  "KEEP_3M": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ]
+}
+2024-11-21 09:22:14 - INFO - KEEP labels by contact:
+2024-11-21 09:22:14 - INFO - {
+  "jojy.schless@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jschless@genevaeye.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy@fullcirclecoaches.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy_schless@cdh.org": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "joeygpaul@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "rschless3@gmail.com": [
+    "KEEP"
+  ],
+  "robert@schless.com": [
+    "KEEP"
+  ],
+  "kwdsheas@gmail.com": [
+    "KEEP"
+  ],
+  "kwdsheas@sbcglobal.net": [
+    "KEEP"
+  ],
+  "dinicejbp@gmail.com": [
+    "KEEP"
+  ],
+  "patrick.schless@gmail.com": [
+    "KEEP"
+  ],
+  "patrick@schless.com": [
+    "KEEP"
+  ],
+  "jobymail@gmail.com": [
+    "KEEP"
+  ],
+  "nila.am.k@gmail.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augie.onmicrosoft.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augustana.edu": [
+    "KEEP"
+  ],
+  "bealifesaver@gmail.com": [
+    "KEEP"
+  ],
+  "duchessdepaz@gmail.com": [
+    "KEEP"
+  ],
+  "mamesmom@gmail.com": [
+    "KEEP"
+  ],
+  "anu_george@yahoo.com": [
+    "KEEP"
+  ],
+  "4anugeorge@gmail.com": [
+    "KEEP"
+  ],
+  "ageorge@hometownone.com": [
+    "KEEP"
+  ],
+  "john@schless.com": [
+    "KEEP"
+  ],
+  "jmsphone78@gmail.com": [
+    "KEEP"
+  ],
+  "ann@schless.com": [
+    "KEEP"
+  ],
+  "monicaleonelle@gmail.com": [
+    "KEEP"
+  ]
+}
+2024-11-21 09:22:15 - INFO - Verifying Gmail messages and labels...
+2024-11-21 09:22:15 - INFO - Checking email 1/26: jojy.schless@gmail.com
+2024-11-21 09:22:15 - INFO - Checking email 2/26: jschless@genevaeye.com
+2024-11-21 09:22:16 - INFO - Checking email 3/26: jojy@fullcirclecoaches.com
+2024-11-21 09:22:16 - INFO - Checking email 4/26: jojy_schless@cdh.org
+2024-11-21 09:22:16 - INFO - Checking email 5/26: joeygpaul@gmail.com
+2024-11-21 09:22:17 - INFO - Checking email 6/26: rschless3@gmail.com
+2024-11-21 09:22:17 - INFO - Checking email 7/26: robert@schless.com
+2024-11-21 09:22:18 - INFO - Checking email 8/26: kwdsheas@gmail.com
+2024-11-21 09:22:18 - INFO - Checking email 9/26: kwdsheas@sbcglobal.net
+2024-11-21 09:22:18 - INFO - Checking email 10/26: dinicejbp@gmail.com
+2024-11-21 09:22:19 - INFO - Checking email 11/26: patrick.schless@gmail.com
+2024-11-21 09:22:19 - INFO - Checking email 12/26: patrick@schless.com
+2024-11-21 09:22:19 - INFO - Checking email 13/26: jobymail@gmail.com
+2024-11-21 09:22:19 - INFO - Checking email 14/26: nila.am.k@gmail.com
+2024-11-21 09:22:20 - INFO - Checking email 15/26: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:22:20 - WARNING - No messages found for nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:22:20 - INFO - Checking email 16/26: nilakannankeril14@augustana.edu
+2024-11-21 09:22:20 - INFO - Checking email 17/26: bealifesaver@gmail.com
+2024-11-21 09:22:21 - INFO - Checking email 18/26: duchessdepaz@gmail.com
+2024-11-21 09:22:21 - INFO - Checking email 19/26: mamesmom@gmail.com
+2024-11-21 09:22:21 - INFO - Checking email 20/26: anu_george@yahoo.com
+2024-11-21 09:22:22 - INFO - Checking email 21/26: 4anugeorge@gmail.com
+2024-11-21 09:22:22 - INFO - Checking email 22/26: ageorge@hometownone.com
+2024-11-21 09:22:22 - INFO - Checking email 23/26: john@schless.com
+2024-11-21 09:22:23 - INFO - Checking email 24/26: jmsphone78@gmail.com
+2024-11-21 09:22:23 - INFO - Checking email 25/26: ann@schless.com
+2024-11-21 09:22:23 - INFO - Checking email 26/26: monicaleonelle@gmail.com
+2024-11-21 09:22:24 - INFO - Gmail Label Verification Results:
+2024-11-21 09:22:24 - INFO - ================================================================================
+2024-11-21 09:22:24 - INFO - Email: jojy.schless@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:22:24 - INFO - Missing labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:22:24 - INFO - Email: jschless@genevaeye.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:22:24 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: jojy@fullcirclecoaches.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:22:24 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: jojy_schless@cdh.org
+2024-11-21 09:22:24 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:22:24 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: joeygpaul@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:22:24 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: rschless3@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: robert@schless.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Missing labels: KEEP
+2024-11-21 09:22:24 - INFO - Email: kwdsheas@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Missing labels: KEEP
+2024-11-21 09:22:24 - INFO - Email: kwdsheas@sbcglobal.net
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: dinicejbp@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: patrick.schless@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Missing labels: KEEP
+2024-11-21 09:22:24 - INFO - Email: patrick@schless.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: jobymail@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: nila.am.k@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Missing labels: KEEP
+2024-11-21 09:22:24 - INFO - Email: nilakannankeril14@augustana.edu
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Missing labels: KEEP
+2024-11-21 09:22:24 - INFO - Email: bealifesaver@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: duchessdepaz@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: mamesmom@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: anu_george@yahoo.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: 4anugeorge@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: ageorge@hometownone.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Missing labels: KEEP
+2024-11-21 09:22:24 - INFO - Email: john@schless.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Missing labels: KEEP
+2024-11-21 09:22:24 - INFO - Email: jmsphone78@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Present labels: KEEP
+2024-11-21 09:22:24 - INFO - All required labels are present!
+2024-11-21 09:22:24 - INFO - Email: ann@schless.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Missing labels: KEEP
+2024-11-21 09:22:24 - INFO - Email: monicaleonelle@gmail.com
+2024-11-21 09:22:24 - INFO - Required labels: KEEP
+2024-11-21 09:22:24 - INFO - Missing labels: KEEP
+2024-11-21 09:22:24 - INFO - Summary: 16/26 emails have all required labels
+2024-11-21 09:22:24 - INFO - Applying missing labels to Gmail messages...
+2024-11-21 09:22:24 - INFO - 
+Processing jojy.schless@gmail.com...
+2024-11-21 09:22:24 - INFO - DRY RUN: Would apply labels ['KEEP_7D', 'KEEP', 'KEEP_3M'] to messages from jojy.schless@gmail.com
+2024-11-21 09:22:24 - INFO - 
+Processing robert@schless.com...
+2024-11-21 09:22:24 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from robert@schless.com
+2024-11-21 09:22:24 - INFO - 
+Processing kwdsheas@gmail.com...
+2024-11-21 09:22:24 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from kwdsheas@gmail.com
+2024-11-21 09:22:24 - INFO - 
+Processing patrick.schless@gmail.com...
+2024-11-21 09:22:24 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from patrick.schless@gmail.com
+2024-11-21 09:22:24 - INFO - 
+Processing nilakannankeril14@augie.onmicrosoft.com...
+2024-11-21 09:22:24 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:22:24 - INFO - 
+Processing nilakannankeril14@augustana.edu...
+2024-11-21 09:22:24 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from nilakannankeril14@augustana.edu
+2024-11-21 09:22:24 - INFO - 
+Processing ageorge@hometownone.com...
+2024-11-21 09:22:24 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from ageorge@hometownone.com
+2024-11-21 09:22:24 - INFO - 
+Processing john@schless.com...
+2024-11-21 09:22:24 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from john@schless.com
+2024-11-21 09:22:24 - INFO - 
+Processing ann@schless.com...
+2024-11-21 09:22:24 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from ann@schless.com
+2024-11-21 09:22:24 - INFO - 
+Processing monicaleonelle@gmail.com...
+2024-11-21 09:22:24 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from monicaleonelle@gmail.com
+2024-11-21 09:22:24 - INFO - 
+DRY RUN complete - no labels were actually applied
+2024-11-21 09:22:24 - INFO - Label Update Summary:
+2024-11-21 09:22:24 - INFO - Updated 0 messages across 0 email addresses
+2024-11-21 09:22:24 - INFO - Verifying email addresses in Gmail messages...
+2024-11-21 09:22:24 - INFO - Checking email 1/26: jojy.schless@gmail.com
+2024-11-21 09:22:24 - INFO -   - Scanned 500 messages in 0.4 seconds (1416.4 msgs/sec)
+2024-11-21 09:22:24 - INFO - Checking email 2/26: patrick@schless.com
+2024-11-21 09:22:25 - INFO -   - Scanned 40 messages in 0.2 seconds (185.7 msgs/sec)
+2024-11-21 09:22:25 - INFO - Checking email 3/26: jojy@fullcirclecoaches.com
+2024-11-21 09:22:25 - INFO -   - Scanned 323 messages in 0.2 seconds (1303.0 msgs/sec)
+2024-11-21 09:22:25 - INFO - Checking email 4/26: robert@schless.com
+2024-11-21 09:22:25 - INFO -   - Scanned 500 messages in 0.2 seconds (3139.5 msgs/sec)
+2024-11-21 09:22:25 - INFO - Checking email 5/26: jmsphone78@gmail.com
+2024-11-21 09:22:25 - INFO -   - Scanned 29 messages in 0.1 seconds (211.2 msgs/sec)
+2024-11-21 09:22:25 - INFO - Checking email 6/26: jschless@genevaeye.com
+2024-11-21 09:22:25 - INFO -   - Scanned 2 messages in 0.1 seconds (22.0 msgs/sec)
+2024-11-21 09:22:25 - INFO - Checking email 7/26: bealifesaver@gmail.com
+2024-11-21 09:22:25 - INFO -   - Scanned 53 messages in 0.1 seconds (520.2 msgs/sec)
+2024-11-21 09:22:25 - INFO - Checking email 8/26: jobymail@gmail.com
+2024-11-21 09:22:25 - INFO -   - Scanned 9 messages in 0.1 seconds (95.9 msgs/sec)
+2024-11-21 09:22:25 - INFO - Checking email 9/26: kwdsheas@sbcglobal.net
+2024-11-21 09:22:26 - INFO -   - Scanned 500 messages in 0.1 seconds (3445.0 msgs/sec)
+2024-11-21 09:22:26 - INFO - Checking email 10/26: jojy_schless@cdh.org
+2024-11-21 09:22:26 - INFO -   - Scanned 27 messages in 0.1 seconds (302.2 msgs/sec)
+2024-11-21 09:22:26 - INFO - Checking email 11/26: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:22:26 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:22:26 - INFO - Checking email 12/26: 4anugeorge@gmail.com
+2024-11-21 09:22:26 - INFO -   - Scanned 89 messages in 0.1 seconds (950.3 msgs/sec)
+2024-11-21 09:22:26 - INFO - Checking email 13/26: patrick.schless@gmail.com
+2024-11-21 09:22:26 - INFO -   - Scanned 500 messages in 0.1 seconds (3536.3 msgs/sec)
+2024-11-21 09:22:26 - INFO - Checking email 14/26: ageorge@hometownone.com
+2024-11-21 09:22:26 - INFO -   - Scanned 3 messages in 0.1 seconds (25.2 msgs/sec)
+2024-11-21 09:22:26 - INFO - Checking email 15/26: anu_george@yahoo.com
+2024-11-21 09:22:26 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:22:26 - INFO - Checking email 16/26: joeygpaul@gmail.com
+2024-11-21 09:22:26 - INFO -   - Scanned 3 messages in 0.1 seconds (36.6 msgs/sec)
+2024-11-21 09:22:26 - INFO - Checking email 17/26: dinicejbp@gmail.com
+2024-11-21 09:22:26 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:22:26 - INFO - Checking email 18/26: monicaleonelle@gmail.com
+2024-11-21 09:22:27 - INFO -   - Scanned 500 messages in 0.1 seconds (3548.1 msgs/sec)
+2024-11-21 09:22:27 - INFO - Checking email 19/26: nilakannankeril14@augustana.edu
+2024-11-21 09:22:27 - INFO -   - Scanned 37 messages in 0.1 seconds (385.3 msgs/sec)
+2024-11-21 09:22:27 - INFO - Checking email 20/26: rschless3@gmail.com
+2024-11-21 09:22:27 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:22:27 - INFO - Checking email 21/26: nila.am.k@gmail.com
+2024-11-21 09:22:27 - INFO -   - Scanned 500 messages in 0.1 seconds (4109.5 msgs/sec)
+2024-11-21 09:22:27 - INFO - Checking email 22/26: mamesmom@gmail.com
+2024-11-21 09:22:27 - INFO -   - Scanned 7 messages in 0.1 seconds (75.6 msgs/sec)
+2024-11-21 09:22:27 - INFO - Checking email 23/26: kwdsheas@gmail.com
+2024-11-21 09:22:27 - INFO -   - Scanned 500 messages in 0.1 seconds (3728.0 msgs/sec)
+2024-11-21 09:22:27 - INFO - Checking email 24/26: ann@schless.com
+2024-11-21 09:22:27 - INFO -   - Scanned 500 messages in 0.1 seconds (3878.9 msgs/sec)
+2024-11-21 09:22:27 - INFO - Checking email 25/26: john@schless.com
+2024-11-21 09:22:27 - INFO -   - Scanned 500 messages in 0.1 seconds (3806.1 msgs/sec)
+2024-11-21 09:22:27 - INFO - Checking email 26/26: duchessdepaz@gmail.com
+2024-11-21 09:22:27 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:22:27 - INFO - Email Verification Statistics:
+2024-11-21 09:22:27 - INFO - Total time: 3.5 seconds
+2024-11-21 09:22:27 - INFO - Total messages scanned: 5122
+2024-11-21 09:22:27 - INFO - Average processing rate: 1462.9 messages/second
+2024-11-21 09:22:27 - INFO - Average time per email: 0.1 seconds
+2024-11-21 09:22:27 - INFO - Email Verification Results:
+2024-11-21 09:22:27 - INFO - Email Address                           Found in Gmail
+2024-11-21 09:22:27 - INFO - ------------------------------------------------------------
+2024-11-21 09:22:27 - INFO - jojy.schless@gmail.com                   YES
+2024-11-21 09:22:27 - INFO - patrick@schless.com                      YES
+2024-11-21 09:22:27 - INFO - jojy@fullcirclecoaches.com               YES
+2024-11-21 09:22:27 - INFO - robert@schless.com                       YES
+2024-11-21 09:22:27 - INFO - jmsphone78@gmail.com                     YES
+2024-11-21 09:22:27 - INFO - jschless@genevaeye.com                   YES
+2024-11-21 09:22:27 - INFO - bealifesaver@gmail.com                   YES
+2024-11-21 09:22:27 - INFO - jobymail@gmail.com                       YES
+2024-11-21 09:22:27 - INFO - kwdsheas@sbcglobal.net                   YES
+2024-11-21 09:22:27 - INFO - jojy_schless@cdh.org                     YES
+2024-11-21 09:22:27 - INFO - nilakannankeril14@augie.onmicrosoft.com  NO
+2024-11-21 09:22:27 - INFO - 4anugeorge@gmail.com                     YES
+2024-11-21 09:22:27 - INFO - patrick.schless@gmail.com                YES
+2024-11-21 09:22:27 - INFO - ageorge@hometownone.com                  YES
+2024-11-21 09:22:27 - INFO - anu_george@yahoo.com                     NO
+2024-11-21 09:22:27 - INFO - joeygpaul@gmail.com                      YES
+2024-11-21 09:22:27 - INFO - dinicejbp@gmail.com                      NO
+2024-11-21 09:22:27 - INFO - monicaleonelle@gmail.com                 YES
+2024-11-21 09:22:27 - INFO - nilakannankeril14@augustana.edu          YES
+2024-11-21 09:22:27 - INFO - rschless3@gmail.com                      NO
+2024-11-21 09:22:28 - INFO - nila.am.k@gmail.com                      YES
+2024-11-21 09:22:28 - INFO - mamesmom@gmail.com                       YES
+2024-11-21 09:22:28 - INFO - kwdsheas@gmail.com                       YES
+2024-11-21 09:22:28 - INFO - ann@schless.com                          YES
+2024-11-21 09:22:28 - INFO - john@schless.com                         YES
+2024-11-21 09:22:28 - INFO - duchessdepaz@gmail.com                   NO
+2024-11-21 09:22:28 - INFO - Summary: 21/26 emails found in Gmail messages
+2024-11-21 09:22:28 - INFO - Found thread with subject matching query. Thread ID: 192a7e235583f4bb
+2024-11-21 09:22:28 - INFO - Message labels: Label_1467874027980154250, Label_2954033496675434178, CATEGORY_SOCIAL
+2024-11-21 09:22:28 - INFO - Message labels: IMPORTANT, SENT, INBOX
+2024-11-21 09:22:28 - INFO - Processing expired threads...
+2024-11-21 09:22:28 - INFO - Fetching all GMail labels...
+2024-11-21 09:22:28 - INFO - Found 6 'KEEP' labels in GMail: KEEP_2D, KEEP_2Y, KEEP, KEEP_4D, KEEP_7D, KEEP_3M
+2024-11-21 09:22:28 - INFO - Found 9 threads matching 'subject:"Shellie White" AND (KEEP_2D OR KEEP_2Y OR KEEP OR KEEP_4D OR KEEP_7D OR KEEP_3M)'
+2024-11-21 09:22:28 - DEBUG - Thread ID: 192fe2d4b004c087
+2024-11-21 09:22:28 - DEBUG -   message ID: 192fe2d4b004c087
+2024-11-21 09:22:29 - INFO -    snippet: The story will expire tomorrow at 9:03 AM, so  ...
+2024-11-21 09:22:31 - INFO -    DRY RUN: Thread WOULD have been deleted 192fe2d4b004c087 - (expiry: 2024-11-19)
+2024-11-21 09:22:31 - DEBUG - Thread ID: 192a7e235583f4bb
+2024-11-21 09:22:31 - DEBUG -   message ID: 192a7e235583f4bb
+2024-11-21 09:22:31 - DEBUG -   'KEEP' labels: KEEP_2D
+2024-11-21 09:22:31 - DEBUG -   message ID: 1934ac9fce12f7ee
+2024-11-21 09:22:32 - ERROR -   ** Error processing thread 192a7e235583f4bb: unsupported operand type(s) for -: 'datetime.datetime' and 'datetime.date'
+2024-11-21 09:28:47 - INFO - Running in DRY RUN mode - no changes will be made
+2024-11-21 09:28:47 - INFO - Loading saved credentials...
+2024-11-21 09:28:47 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-21 09:28:47 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-21 09:28:48 - INFO - Found 3 'KEEP' groups: KEEP_7D, KEEP, KEEP_3M
+2024-11-21 09:28:48 - DEBUG - Found 2 contacts in group KEEP_7D
+2024-11-21 09:28:48 - INFO - Processing contacts in group KEEP_7D
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Jojy Schless
+2024-11-21 09:28:48 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:28:48 - INFO -     added 4 emails to group: KEEP_7D
+2024-11-21 09:28:48 - INFO -     total emails in group: 4
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Joey Paul
+2024-11-21 09:28:48 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:28:48 - INFO -     added 1 emails to group: KEEP_7D
+2024-11-21 09:28:48 - INFO -     total emails in group: 5
+2024-11-21 09:28:48 - DEBUG - Found 14 contacts in group KEEP
+2024-11-21 09:28:48 - INFO - Processing contacts in group KEEP
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Jojy Schless
+2024-11-21 09:28:48 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:28:48 - INFO -     added 4 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 4
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Robert D Schless
+2024-11-21 09:28:48 - INFO -     email addresses: rschless3@gmail.com, robert@schless.com
+2024-11-21 09:28:48 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 6
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Laurie Shea
+2024-11-21 09:28:48 - INFO -     email addresses: kwdsheas@gmail.com, kwdsheas@sbcglobal.net
+2024-11-21 09:28:48 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 8
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Dinice Buitendorp-Paul
+2024-11-21 09:28:48 - INFO -     email addresses: dinicejbp@gmail.com
+2024-11-21 09:28:48 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 9
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Patrick Schless
+2024-11-21 09:28:48 - INFO -     email addresses: patrick.schless@gmail.com, patrick@schless.com
+2024-11-21 09:28:48 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 11
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Joby George
+2024-11-21 09:28:48 - INFO -     email addresses: jobymail@gmail.com
+2024-11-21 09:28:48 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 12
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Nila Kannankeril
+2024-11-21 09:28:48 - INFO -     email addresses: nila.am.k@gmail.com, nilakannankeril14@augie.onmicrosoft.com, nilakannankeril14@augustana.edu
+2024-11-21 09:28:48 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 15
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Margarita Crupe
+2024-11-21 09:28:48 - INFO -     email addresses: bealifesaver@gmail.com, duchessdepaz@gmail.com, mamesmom@gmail.com
+2024-11-21 09:28:48 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 18
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Rani George
+2024-11-21 09:28:48 - INFO -     email addresses: anu_george@yahoo.com, 4anugeorge@gmail.com, ageorge@hometownone.com
+2024-11-21 09:28:48 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 21
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: John M Schless
+2024-11-21 09:28:48 - INFO -     email addresses: john@schless.com, jmsphone78@gmail.com
+2024-11-21 09:28:48 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 23
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Joey Paul
+2024-11-21 09:28:48 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:28:48 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 24
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Ann Schless
+2024-11-21 09:28:48 - INFO -     email addresses: ann@schless.com
+2024-11-21 09:28:48 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 25
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Monica Schless
+2024-11-21 09:28:48 - INFO -     email addresses: monicaleonelle@gmail.com
+2024-11-21 09:28:48 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:28:48 - INFO -     total emails in group: 26
+2024-11-21 09:28:48 - DEBUG - Found 2 contacts in group KEEP_3M
+2024-11-21 09:28:48 - INFO - Processing contacts in group KEEP_3M
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Jojy Schless
+2024-11-21 09:28:48 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:28:48 - INFO -     added 4 emails to group: KEEP_3M
+2024-11-21 09:28:48 - INFO -     total emails in group: 4
+2024-11-21 09:28:48 - INFO -   Processing contact
+2024-11-21 09:28:48 - INFO -     names: Joey Paul
+2024-11-21 09:28:48 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:28:48 - INFO -     added 1 emails to group: KEEP_3M
+2024-11-21 09:28:48 - INFO -     total emails in group: 5
+2024-11-21 09:28:48 - INFO - Contacts by KEEP label:
+2024-11-21 09:28:48 - INFO - {
+  "KEEP_7D": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ],
+  "KEEP": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "rschless3@gmail.com",
+    "robert@schless.com",
+    "kwdsheas@gmail.com",
+    "kwdsheas@sbcglobal.net",
+    "dinicejbp@gmail.com",
+    "patrick.schless@gmail.com",
+    "patrick@schless.com",
+    "jobymail@gmail.com",
+    "nila.am.k@gmail.com",
+    "nilakannankeril14@augie.onmicrosoft.com",
+    "nilakannankeril14@augustana.edu",
+    "bealifesaver@gmail.com",
+    "duchessdepaz@gmail.com",
+    "mamesmom@gmail.com",
+    "anu_george@yahoo.com",
+    "4anugeorge@gmail.com",
+    "ageorge@hometownone.com",
+    "john@schless.com",
+    "jmsphone78@gmail.com",
+    "joeygpaul@gmail.com",
+    "ann@schless.com",
+    "monicaleonelle@gmail.com"
+  ],
+  "KEEP_3M": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ]
+}
+2024-11-21 09:28:48 - INFO - KEEP labels by contact:
+2024-11-21 09:28:48 - INFO - {
+  "jojy.schless@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jschless@genevaeye.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy@fullcirclecoaches.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy_schless@cdh.org": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "joeygpaul@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "rschless3@gmail.com": [
+    "KEEP"
+  ],
+  "robert@schless.com": [
+    "KEEP"
+  ],
+  "kwdsheas@gmail.com": [
+    "KEEP"
+  ],
+  "kwdsheas@sbcglobal.net": [
+    "KEEP"
+  ],
+  "dinicejbp@gmail.com": [
+    "KEEP"
+  ],
+  "patrick.schless@gmail.com": [
+    "KEEP"
+  ],
+  "patrick@schless.com": [
+    "KEEP"
+  ],
+  "jobymail@gmail.com": [
+    "KEEP"
+  ],
+  "nila.am.k@gmail.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augie.onmicrosoft.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augustana.edu": [
+    "KEEP"
+  ],
+  "bealifesaver@gmail.com": [
+    "KEEP"
+  ],
+  "duchessdepaz@gmail.com": [
+    "KEEP"
+  ],
+  "mamesmom@gmail.com": [
+    "KEEP"
+  ],
+  "anu_george@yahoo.com": [
+    "KEEP"
+  ],
+  "4anugeorge@gmail.com": [
+    "KEEP"
+  ],
+  "ageorge@hometownone.com": [
+    "KEEP"
+  ],
+  "john@schless.com": [
+    "KEEP"
+  ],
+  "jmsphone78@gmail.com": [
+    "KEEP"
+  ],
+  "ann@schless.com": [
+    "KEEP"
+  ],
+  "monicaleonelle@gmail.com": [
+    "KEEP"
+  ]
+}
+2024-11-21 09:28:49 - INFO - Verifying Gmail messages and labels...
+2024-11-21 09:28:49 - INFO - Checking email 1/26: jojy.schless@gmail.com
+2024-11-21 09:28:49 - INFO - Checking email 2/26: jschless@genevaeye.com
+2024-11-21 09:28:49 - INFO - Checking email 3/26: jojy@fullcirclecoaches.com
+2024-11-21 09:28:50 - INFO - Checking email 4/26: jojy_schless@cdh.org
+2024-11-21 09:28:50 - INFO - Checking email 5/26: joeygpaul@gmail.com
+2024-11-21 09:28:51 - INFO - Checking email 6/26: rschless3@gmail.com
+2024-11-21 09:28:51 - INFO - Checking email 7/26: robert@schless.com
+2024-11-21 09:28:51 - INFO - Checking email 8/26: kwdsheas@gmail.com
+2024-11-21 09:28:51 - INFO - Checking email 9/26: kwdsheas@sbcglobal.net
+2024-11-21 09:28:52 - INFO - Checking email 10/26: dinicejbp@gmail.com
+2024-11-21 09:28:52 - INFO - Checking email 11/26: patrick.schless@gmail.com
+2024-11-21 09:28:52 - INFO - Checking email 12/26: patrick@schless.com
+2024-11-21 09:28:53 - INFO - Checking email 13/26: jobymail@gmail.com
+2024-11-21 09:28:53 - INFO - Checking email 14/26: nila.am.k@gmail.com
+2024-11-21 09:28:53 - INFO - Checking email 15/26: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:28:53 - WARNING - No messages found for nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:28:53 - INFO - Checking email 16/26: nilakannankeril14@augustana.edu
+2024-11-21 09:28:54 - INFO - Checking email 17/26: bealifesaver@gmail.com
+2024-11-21 09:28:54 - INFO - Checking email 18/26: duchessdepaz@gmail.com
+2024-11-21 09:28:54 - INFO - Checking email 19/26: mamesmom@gmail.com
+2024-11-21 09:28:55 - INFO - Checking email 20/26: anu_george@yahoo.com
+2024-11-21 09:28:55 - INFO - Checking email 21/26: 4anugeorge@gmail.com
+2024-11-21 09:28:56 - INFO - Checking email 22/26: ageorge@hometownone.com
+2024-11-21 09:28:56 - INFO - Checking email 23/26: john@schless.com
+2024-11-21 09:28:56 - INFO - Checking email 24/26: jmsphone78@gmail.com
+2024-11-21 09:28:57 - INFO - Checking email 25/26: ann@schless.com
+2024-11-21 09:28:57 - INFO - Checking email 26/26: monicaleonelle@gmail.com
+2024-11-21 09:28:57 - INFO - Gmail Label Verification Results:
+2024-11-21 09:28:57 - INFO - ================================================================================
+2024-11-21 09:28:57 - INFO - Email: jojy.schless@gmail.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:28:57 - INFO - Missing labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:28:57 - INFO - Email: jschless@genevaeye.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:28:57 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: jojy@fullcirclecoaches.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:28:57 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: jojy_schless@cdh.org
+2024-11-21 09:28:57 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:28:57 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: joeygpaul@gmail.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:28:57 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: rschless3@gmail.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Present labels: KEEP
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: robert@schless.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Missing labels: KEEP
+2024-11-21 09:28:57 - INFO - Email: kwdsheas@gmail.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Missing labels: KEEP
+2024-11-21 09:28:57 - INFO - Email: kwdsheas@sbcglobal.net
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Present labels: KEEP
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: dinicejbp@gmail.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Present labels: KEEP
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: patrick.schless@gmail.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Missing labels: KEEP
+2024-11-21 09:28:57 - INFO - Email: patrick@schless.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Present labels: KEEP
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: jobymail@gmail.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Present labels: KEEP
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: nila.am.k@gmail.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Present labels: KEEP
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Missing labels: KEEP
+2024-11-21 09:28:57 - INFO - Email: nilakannankeril14@augustana.edu
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Missing labels: KEEP
+2024-11-21 09:28:57 - INFO - Email: bealifesaver@gmail.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Present labels: KEEP
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: duchessdepaz@gmail.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Present labels: KEEP
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: mamesmom@gmail.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:57 - INFO - Present labels: KEEP
+2024-11-21 09:28:57 - INFO - All required labels are present!
+2024-11-21 09:28:57 - INFO - Email: anu_george@yahoo.com
+2024-11-21 09:28:57 - INFO - Required labels: KEEP
+2024-11-21 09:28:58 - INFO - Present labels: KEEP
+2024-11-21 09:28:58 - INFO - All required labels are present!
+2024-11-21 09:28:58 - INFO - Email: 4anugeorge@gmail.com
+2024-11-21 09:28:58 - INFO - Required labels: KEEP
+2024-11-21 09:28:58 - INFO - Present labels: KEEP
+2024-11-21 09:28:58 - INFO - All required labels are present!
+2024-11-21 09:28:58 - INFO - Email: ageorge@hometownone.com
+2024-11-21 09:28:58 - INFO - Required labels: KEEP
+2024-11-21 09:28:58 - INFO - Missing labels: KEEP
+2024-11-21 09:28:58 - INFO - Email: john@schless.com
+2024-11-21 09:28:58 - INFO - Required labels: KEEP
+2024-11-21 09:28:58 - INFO - Missing labels: KEEP
+2024-11-21 09:28:58 - INFO - Email: jmsphone78@gmail.com
+2024-11-21 09:28:58 - INFO - Required labels: KEEP
+2024-11-21 09:28:58 - INFO - Present labels: KEEP
+2024-11-21 09:28:58 - INFO - All required labels are present!
+2024-11-21 09:28:58 - INFO - Email: ann@schless.com
+2024-11-21 09:28:58 - INFO - Required labels: KEEP
+2024-11-21 09:28:58 - INFO - Missing labels: KEEP
+2024-11-21 09:28:58 - INFO - Email: monicaleonelle@gmail.com
+2024-11-21 09:28:58 - INFO - Required labels: KEEP
+2024-11-21 09:28:58 - INFO - Missing labels: KEEP
+2024-11-21 09:28:58 - INFO - Summary: 16/26 emails have all required labels
+2024-11-21 09:28:58 - INFO - Applying missing labels to Gmail messages...
+2024-11-21 09:28:58 - INFO - 
+Processing jojy.schless@gmail.com...
+2024-11-21 09:28:58 - INFO - DRY RUN: Would apply labels ['KEEP', 'KEEP_7D', 'KEEP_3M'] to messages from jojy.schless@gmail.com
+2024-11-21 09:28:58 - INFO - 
+Processing robert@schless.com...
+2024-11-21 09:28:58 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from robert@schless.com
+2024-11-21 09:28:58 - INFO - 
+Processing kwdsheas@gmail.com...
+2024-11-21 09:28:58 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from kwdsheas@gmail.com
+2024-11-21 09:28:58 - INFO - 
+Processing patrick.schless@gmail.com...
+2024-11-21 09:28:58 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from patrick.schless@gmail.com
+2024-11-21 09:28:58 - INFO - 
+Processing nilakannankeril14@augie.onmicrosoft.com...
+2024-11-21 09:28:58 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:28:58 - INFO - 
+Processing nilakannankeril14@augustana.edu...
+2024-11-21 09:28:58 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from nilakannankeril14@augustana.edu
+2024-11-21 09:28:58 - INFO - 
+Processing ageorge@hometownone.com...
+2024-11-21 09:28:58 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from ageorge@hometownone.com
+2024-11-21 09:28:58 - INFO - 
+Processing john@schless.com...
+2024-11-21 09:28:58 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from john@schless.com
+2024-11-21 09:28:58 - INFO - 
+Processing ann@schless.com...
+2024-11-21 09:28:58 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from ann@schless.com
+2024-11-21 09:28:58 - INFO - 
+Processing monicaleonelle@gmail.com...
+2024-11-21 09:28:58 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from monicaleonelle@gmail.com
+2024-11-21 09:28:58 - INFO - 
+DRY RUN complete - no labels were actually applied
+2024-11-21 09:28:58 - INFO - Label Update Summary:
+2024-11-21 09:28:58 - INFO - Updated 0 messages across 0 email addresses
+2024-11-21 09:28:58 - INFO - Verifying email addresses in Gmail messages...
+2024-11-21 09:28:58 - INFO - Checking email 1/26: jojy.schless@gmail.com
+2024-11-21 09:28:58 - INFO -   - Scanned 500 messages in 0.2 seconds (2479.5 msgs/sec)
+2024-11-21 09:28:58 - INFO - Checking email 2/26: patrick@schless.com
+2024-11-21 09:28:58 - INFO -   - Scanned 40 messages in 0.1 seconds (296.2 msgs/sec)
+2024-11-21 09:28:58 - INFO - Checking email 3/26: nila.am.k@gmail.com
+2024-11-21 09:28:58 - INFO -   - Scanned 500 messages in 0.1 seconds (3523.9 msgs/sec)
+2024-11-21 09:28:58 - INFO - Checking email 4/26: patrick.schless@gmail.com
+2024-11-21 09:28:58 - INFO -   - Scanned 500 messages in 0.1 seconds (3417.2 msgs/sec)
+2024-11-21 09:28:58 - INFO - Checking email 5/26: nilakannankeril14@augustana.edu
+2024-11-21 09:28:58 - INFO -   - Scanned 37 messages in 0.1 seconds (279.6 msgs/sec)
+2024-11-21 09:28:58 - INFO - Checking email 6/26: kwdsheas@gmail.com
+2024-11-21 09:28:59 - INFO -   - Scanned 500 messages in 0.2 seconds (3016.3 msgs/sec)
+2024-11-21 09:28:59 - INFO - Checking email 7/26: anu_george@yahoo.com
+2024-11-21 09:28:59 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:28:59 - INFO - Checking email 8/26: 4anugeorge@gmail.com
+2024-11-21 09:28:59 - INFO -   - Scanned 89 messages in 0.2 seconds (448.0 msgs/sec)
+2024-11-21 09:28:59 - INFO - Checking email 9/26: jojy@fullcirclecoaches.com
+2024-11-21 09:28:59 - INFO -   - Scanned 323 messages in 0.1 seconds (2517.3 msgs/sec)
+2024-11-21 09:28:59 - INFO - Checking email 10/26: monicaleonelle@gmail.com
+2024-11-21 09:28:59 - INFO -   - Scanned 500 messages in 0.1 seconds (3728.1 msgs/sec)
+2024-11-21 09:28:59 - INFO - Checking email 11/26: ageorge@hometownone.com
+2024-11-21 09:28:59 - INFO -   - Scanned 3 messages in 0.1 seconds (32.0 msgs/sec)
+2024-11-21 09:28:59 - INFO - Checking email 12/26: rschless3@gmail.com
+2024-11-21 09:28:59 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:28:59 - INFO - Checking email 13/26: jojy_schless@cdh.org
+2024-11-21 09:28:59 - INFO -   - Scanned 27 messages in 0.1 seconds (261.1 msgs/sec)
+2024-11-21 09:28:59 - INFO - Checking email 14/26: kwdsheas@sbcglobal.net
+2024-11-21 09:29:00 - INFO -   - Scanned 500 messages in 0.2 seconds (3184.5 msgs/sec)
+2024-11-21 09:29:00 - INFO - Checking email 15/26: duchessdepaz@gmail.com
+2024-11-21 09:29:00 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:29:00 - INFO - Checking email 16/26: jmsphone78@gmail.com
+2024-11-21 09:29:00 - INFO -   - Scanned 29 messages in 0.1 seconds (217.2 msgs/sec)
+2024-11-21 09:29:00 - INFO - Checking email 17/26: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:29:00 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:29:00 - INFO - Checking email 18/26: jschless@genevaeye.com
+2024-11-21 09:29:00 - INFO -   - Scanned 2 messages in 0.2 seconds (11.4 msgs/sec)
+2024-11-21 09:29:00 - INFO - Checking email 19/26: ann@schless.com
+2024-11-21 09:29:00 - INFO -   - Scanned 500 messages in 0.3 seconds (1963.9 msgs/sec)
+2024-11-21 09:29:00 - INFO - Checking email 20/26: mamesmom@gmail.com
+2024-11-21 09:29:01 - INFO -   - Scanned 7 messages in 0.1 seconds (50.7 msgs/sec)
+2024-11-21 09:29:01 - INFO - Checking email 21/26: john@schless.com
+2024-11-21 09:29:01 - INFO -   - Scanned 500 messages in 0.1 seconds (3510.4 msgs/sec)
+2024-11-21 09:29:01 - INFO - Checking email 22/26: joeygpaul@gmail.com
+2024-11-21 09:29:01 - INFO -   - Scanned 3 messages in 0.1 seconds (25.2 msgs/sec)
+2024-11-21 09:29:01 - INFO - Checking email 23/26: dinicejbp@gmail.com
+2024-11-21 09:29:01 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:29:01 - INFO - Checking email 24/26: jobymail@gmail.com
+2024-11-21 09:29:01 - INFO -   - Scanned 9 messages in 0.1 seconds (75.3 msgs/sec)
+2024-11-21 09:29:01 - INFO - Checking email 25/26: robert@schless.com
+2024-11-21 09:29:01 - INFO -   - Scanned 500 messages in 0.2 seconds (3241.6 msgs/sec)
+2024-11-21 09:29:01 - INFO - Checking email 26/26: bealifesaver@gmail.com
+2024-11-21 09:29:01 - INFO -   - Scanned 53 messages in 0.1 seconds (554.6 msgs/sec)
+2024-11-21 09:29:01 - INFO - Email Verification Statistics:
+2024-11-21 09:29:01 - INFO - Total time: 3.6 seconds
+2024-11-21 09:29:01 - INFO - Total messages scanned: 5122
+2024-11-21 09:29:01 - INFO - Average processing rate: 1411.6 messages/second
+2024-11-21 09:29:01 - INFO - Average time per email: 0.1 seconds
+2024-11-21 09:29:01 - INFO - Email Verification Results:
+2024-11-21 09:29:01 - INFO - Email Address                           Found in Gmail
+2024-11-21 09:29:01 - INFO - ------------------------------------------------------------
+2024-11-21 09:29:01 - INFO - jojy.schless@gmail.com                   YES
+2024-11-21 09:29:01 - INFO - patrick@schless.com                      YES
+2024-11-21 09:29:01 - INFO - nila.am.k@gmail.com                      YES
+2024-11-21 09:29:01 - INFO - patrick.schless@gmail.com                YES
+2024-11-21 09:29:01 - INFO - nilakannankeril14@augustana.edu          YES
+2024-11-21 09:29:01 - INFO - kwdsheas@gmail.com                       YES
+2024-11-21 09:29:01 - INFO - anu_george@yahoo.com                     NO
+2024-11-21 09:29:01 - INFO - 4anugeorge@gmail.com                     YES
+2024-11-21 09:29:01 - INFO - jojy@fullcirclecoaches.com               YES
+2024-11-21 09:29:01 - INFO - monicaleonelle@gmail.com                 YES
+2024-11-21 09:29:01 - INFO - ageorge@hometownone.com                  YES
+2024-11-21 09:29:01 - INFO - rschless3@gmail.com                      NO
+2024-11-21 09:29:01 - INFO - jojy_schless@cdh.org                     YES
+2024-11-21 09:29:01 - INFO - kwdsheas@sbcglobal.net                   YES
+2024-11-21 09:29:01 - INFO - duchessdepaz@gmail.com                   NO
+2024-11-21 09:29:01 - INFO - jmsphone78@gmail.com                     YES
+2024-11-21 09:29:01 - INFO - nilakannankeril14@augie.onmicrosoft.com  NO
+2024-11-21 09:29:01 - INFO - jschless@genevaeye.com                   YES
+2024-11-21 09:29:01 - INFO - ann@schless.com                          YES
+2024-11-21 09:29:01 - INFO - mamesmom@gmail.com                       YES
+2024-11-21 09:29:01 - INFO - john@schless.com                         YES
+2024-11-21 09:29:01 - INFO - joeygpaul@gmail.com                      YES
+2024-11-21 09:29:01 - INFO - dinicejbp@gmail.com                      NO
+2024-11-21 09:29:01 - INFO - jobymail@gmail.com                       YES
+2024-11-21 09:29:01 - INFO - robert@schless.com                       YES
+2024-11-21 09:29:01 - INFO - bealifesaver@gmail.com                   YES
+2024-11-21 09:29:01 - INFO - Summary: 21/26 emails found in Gmail messages
+2024-11-21 09:29:01 - INFO - Found thread with subject matching query. Thread ID: 192a7e235583f4bb
+2024-11-21 09:29:01 - INFO - Message labels: Label_1467874027980154250, Label_2954033496675434178, CATEGORY_SOCIAL
+2024-11-21 09:29:01 - INFO - Message labels: IMPORTANT, SENT, INBOX
+2024-11-21 09:29:01 - INFO - Processing expired threads...
+2024-11-21 09:29:01 - INFO - Fetching all GMail labels...
+2024-11-21 09:29:02 - INFO - Found 6 'KEEP' labels in GMail: KEEP_2D, KEEP_2Y, KEEP, KEEP_4D, KEEP_7D, KEEP_3M
+2024-11-21 09:29:02 - INFO - Found 9 threads matching 'subject:"Shellie White" AND (KEEP_2D OR KEEP_2Y OR KEEP OR KEEP_4D OR KEEP_7D OR KEEP_3M)'
+2024-11-21 09:29:02 - DEBUG - Thread ID: 192fe2d4b004c087
+2024-11-21 09:29:02 - DEBUG -   message ID: 192fe2d4b004c087
+2024-11-21 09:29:13 - INFO -    snippet: The story will expire tomorrow at 9:03 AM, so  ...
+2024-11-21 09:29:13 - INFO -    DRY RUN: Thread WOULD have been deleted 192fe2d4b004c087 - (expiry: 2024-11-19)
+2024-11-21 09:29:13 - DEBUG - Thread ID: 192a7e235583f4bb
+2024-11-21 09:29:13 - DEBUG -   message ID: 192a7e235583f4bb
+2024-11-21 09:29:13 - DEBUG -   'KEEP' labels: KEEP_2D
+2024-11-21 09:29:13 - DEBUG -   message ID: 1934ac9fce12f7ee
+2024-11-21 09:29:13 - ERROR -   ** Error processing thread 192a7e235583f4bb: unsupported operand type(s) for -: 'datetime.datetime' and 'datetime.date'
+2024-11-21 09:29:13 - ERROR - Traceback (most recent call last):
+  File "G:\My Drive\src\google-contacts-labels\python_version\main.py", line 715, in process_expired_threads
+    expiry_date = get_thread_expiry_date(gmail_service, thread_id, keep_labels_gmail)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\My Drive\src\google-contacts-labels\python_version\main.py", line 579, in get_thread_expiry_date
+    msg_expiry = msg_date + (label_expiry - datetime.now().date())
+                             ~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~
+TypeError: unsupported operand type(s) for -: 'datetime.datetime' and 'datetime.date'
+
+2024-11-21 09:30:49 - DEBUG - Thread ID: 1919f45002deaae4
+2024-11-21 09:30:49 - DEBUG -   message ID: 1919f45002deaae4
+2024-11-21 09:30:49 - INFO -    DRY RUN: Thread WOULD have been deleted 1919f45002deaae4 - (expiry: 2024-09-12)
+2024-11-21 09:30:50 - DEBUG - Thread ID: 1918b6fd9e3448e8
+2024-11-21 09:30:50 - DEBUG -   message ID: 1918b6fd9e3448e8
+2024-11-21 09:30:50 - INFO -    DRY RUN: Thread WOULD have been deleted 1918b6fd9e3448e8 - (expiry: 2024-09-08)
+2024-11-21 09:30:50 - DEBUG - Thread ID: 191576319c2cfd4e
+2024-11-21 09:30:50 - DEBUG -   message ID: 191576319c2cfd4e
+2024-11-21 09:30:50 - INFO -    DRY RUN: Thread WOULD have been deleted 191576319c2cfd4e - (expiry: 2024-08-29)
+2024-11-21 09:30:50 - DEBUG - Thread ID: 191475bce985d139
+2024-11-21 09:30:50 - DEBUG -   message ID: 191475bce985d139
+2024-11-21 09:30:50 - INFO -    snippet: Dan, here&#39;s Shellie White&#39;s new photo  ...
+2024-11-21 09:30:50 - INFO -    DRY RUN: Thread WOULD have been deleted 191475bce985d139 - (expiry: 2024-08-26)
+2024-11-21 09:30:50 - DEBUG - Thread ID: 1911ea4be08f2d20
+2024-11-21 09:30:50 - DEBUG -   message ID: 1911ea4be08f2d20
+2024-11-21 09:30:50 - INFO -    DRY RUN: Thread WOULD have been deleted 1911ea4be08f2d20 - (expiry: 2024-08-18)
+2024-11-21 09:30:50 - DEBUG - Thread ID: 190c8a73e5d29070
+2024-11-21 09:30:51 - DEBUG -   message ID: 190c8a73e5d29070
+2024-11-21 09:30:51 - INFO -    snippet: Dan, here&#39;s Shellie White&#39;s new photo  ...
+2024-11-21 09:30:51 - INFO -    DRY RUN: Thread WOULD have been deleted 190c8a73e5d29070 - (expiry: 2024-08-01)
+2024-11-21 09:30:51 - DEBUG - Thread ID: 1839b4973f4090e1
+2024-11-21 09:30:51 - DEBUG -   message ID: 1839b4973f4090e1
+2024-11-21 09:30:51 - INFO -    snippet: View Shellie White&#39;s comment on your statu ...
+2024-11-21 09:30:51 - INFO -    DRY RUN: Thread WOULD have been deleted 1839b4973f4090e1 - (expiry: 2022-10-16)
+2024-11-21 09:30:55 - INFO - Running in DRY RUN mode - no changes will be made
+2024-11-21 09:30:55 - INFO - Loading saved credentials...
+2024-11-21 09:30:55 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-21 09:30:55 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-21 09:30:55 - INFO - Found 3 'KEEP' groups: KEEP_7D, KEEP, KEEP_3M
+2024-11-21 09:30:55 - DEBUG - Found 2 contacts in group KEEP_7D
+2024-11-21 09:30:55 - INFO - Processing contacts in group KEEP_7D
+2024-11-21 09:30:55 - INFO -   Processing contact
+2024-11-21 09:30:55 - INFO -     names: Jojy Schless
+2024-11-21 09:30:55 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:30:55 - INFO -     added 4 emails to group: KEEP_7D
+2024-11-21 09:30:55 - INFO -     total emails in group: 4
+2024-11-21 09:30:55 - INFO -   Processing contact
+2024-11-21 09:30:55 - INFO -     names: Joey Paul
+2024-11-21 09:30:55 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:30:55 - INFO -     added 1 emails to group: KEEP_7D
+2024-11-21 09:30:55 - INFO -     total emails in group: 5
+2024-11-21 09:30:56 - DEBUG - Found 14 contacts in group KEEP
+2024-11-21 09:30:56 - INFO - Processing contacts in group KEEP
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Jojy Schless
+2024-11-21 09:30:56 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:30:56 - INFO -     added 4 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 4
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Robert D Schless
+2024-11-21 09:30:56 - INFO -     email addresses: rschless3@gmail.com, robert@schless.com
+2024-11-21 09:30:56 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 6
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Laurie Shea
+2024-11-21 09:30:56 - INFO -     email addresses: kwdsheas@gmail.com, kwdsheas@sbcglobal.net
+2024-11-21 09:30:56 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 8
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Dinice Buitendorp-Paul
+2024-11-21 09:30:56 - INFO -     email addresses: dinicejbp@gmail.com
+2024-11-21 09:30:56 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 9
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Patrick Schless
+2024-11-21 09:30:56 - INFO -     email addresses: patrick.schless@gmail.com, patrick@schless.com
+2024-11-21 09:30:56 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 11
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Joby George
+2024-11-21 09:30:56 - INFO -     email addresses: jobymail@gmail.com
+2024-11-21 09:30:56 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 12
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Nila Kannankeril
+2024-11-21 09:30:56 - INFO -     email addresses: nila.am.k@gmail.com, nilakannankeril14@augie.onmicrosoft.com, nilakannankeril14@augustana.edu
+2024-11-21 09:30:56 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 15
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Margarita Crupe
+2024-11-21 09:30:56 - INFO -     email addresses: bealifesaver@gmail.com, duchessdepaz@gmail.com, mamesmom@gmail.com
+2024-11-21 09:30:56 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 18
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Rani George
+2024-11-21 09:30:56 - INFO -     email addresses: anu_george@yahoo.com, 4anugeorge@gmail.com, ageorge@hometownone.com
+2024-11-21 09:30:56 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 21
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: John M Schless
+2024-11-21 09:30:56 - INFO -     email addresses: john@schless.com, jmsphone78@gmail.com
+2024-11-21 09:30:56 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 23
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Joey Paul
+2024-11-21 09:30:56 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:30:56 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 24
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Ann Schless
+2024-11-21 09:30:56 - INFO -     email addresses: ann@schless.com
+2024-11-21 09:30:56 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 25
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Monica Schless
+2024-11-21 09:30:56 - INFO -     email addresses: monicaleonelle@gmail.com
+2024-11-21 09:30:56 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:30:56 - INFO -     total emails in group: 26
+2024-11-21 09:30:56 - DEBUG - Found 2 contacts in group KEEP_3M
+2024-11-21 09:30:56 - INFO - Processing contacts in group KEEP_3M
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Jojy Schless
+2024-11-21 09:30:56 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:30:56 - INFO -     added 4 emails to group: KEEP_3M
+2024-11-21 09:30:56 - INFO -     total emails in group: 4
+2024-11-21 09:30:56 - INFO -   Processing contact
+2024-11-21 09:30:56 - INFO -     names: Joey Paul
+2024-11-21 09:30:56 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:30:56 - INFO -     added 1 emails to group: KEEP_3M
+2024-11-21 09:30:56 - INFO -     total emails in group: 5
+2024-11-21 09:30:56 - INFO - Contacts by KEEP label:
+2024-11-21 09:30:56 - INFO - {
+  "KEEP_7D": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ],
+  "KEEP": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "rschless3@gmail.com",
+    "robert@schless.com",
+    "kwdsheas@gmail.com",
+    "kwdsheas@sbcglobal.net",
+    "dinicejbp@gmail.com",
+    "patrick.schless@gmail.com",
+    "patrick@schless.com",
+    "jobymail@gmail.com",
+    "nila.am.k@gmail.com",
+    "nilakannankeril14@augie.onmicrosoft.com",
+    "nilakannankeril14@augustana.edu",
+    "bealifesaver@gmail.com",
+    "duchessdepaz@gmail.com",
+    "mamesmom@gmail.com",
+    "anu_george@yahoo.com",
+    "4anugeorge@gmail.com",
+    "ageorge@hometownone.com",
+    "john@schless.com",
+    "jmsphone78@gmail.com",
+    "joeygpaul@gmail.com",
+    "ann@schless.com",
+    "monicaleonelle@gmail.com"
+  ],
+  "KEEP_3M": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ]
+}
+2024-11-21 09:30:56 - INFO - KEEP labels by contact:
+2024-11-21 09:30:56 - INFO - {
+  "jojy.schless@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jschless@genevaeye.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy@fullcirclecoaches.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy_schless@cdh.org": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "joeygpaul@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "rschless3@gmail.com": [
+    "KEEP"
+  ],
+  "robert@schless.com": [
+    "KEEP"
+  ],
+  "kwdsheas@gmail.com": [
+    "KEEP"
+  ],
+  "kwdsheas@sbcglobal.net": [
+    "KEEP"
+  ],
+  "dinicejbp@gmail.com": [
+    "KEEP"
+  ],
+  "patrick.schless@gmail.com": [
+    "KEEP"
+  ],
+  "patrick@schless.com": [
+    "KEEP"
+  ],
+  "jobymail@gmail.com": [
+    "KEEP"
+  ],
+  "nila.am.k@gmail.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augie.onmicrosoft.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augustana.edu": [
+    "KEEP"
+  ],
+  "bealifesaver@gmail.com": [
+    "KEEP"
+  ],
+  "duchessdepaz@gmail.com": [
+    "KEEP"
+  ],
+  "mamesmom@gmail.com": [
+    "KEEP"
+  ],
+  "anu_george@yahoo.com": [
+    "KEEP"
+  ],
+  "4anugeorge@gmail.com": [
+    "KEEP"
+  ],
+  "ageorge@hometownone.com": [
+    "KEEP"
+  ],
+  "john@schless.com": [
+    "KEEP"
+  ],
+  "jmsphone78@gmail.com": [
+    "KEEP"
+  ],
+  "ann@schless.com": [
+    "KEEP"
+  ],
+  "monicaleonelle@gmail.com": [
+    "KEEP"
+  ]
+}
+2024-11-21 09:30:56 - INFO - Verifying Gmail messages and labels...
+2024-11-21 09:30:56 - INFO - Checking email 1/26: jojy.schless@gmail.com
+2024-11-21 09:31:00 - INFO - Running in DRY RUN mode - no changes will be made
+2024-11-21 09:31:00 - INFO - Loading saved credentials...
+2024-11-21 09:31:00 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-21 09:31:00 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-21 09:31:01 - INFO - Found 3 'KEEP' groups: KEEP_7D, KEEP, KEEP_3M
+2024-11-21 09:31:01 - DEBUG - Found 2 contacts in group KEEP_7D
+2024-11-21 09:31:01 - INFO - Processing contacts in group KEEP_7D
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Jojy Schless
+2024-11-21 09:31:01 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:31:01 - INFO -     added 4 emails to group: KEEP_7D
+2024-11-21 09:31:01 - INFO -     total emails in group: 4
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Joey Paul
+2024-11-21 09:31:01 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:31:01 - INFO -     added 1 emails to group: KEEP_7D
+2024-11-21 09:31:01 - INFO -     total emails in group: 5
+2024-11-21 09:31:01 - DEBUG - Found 14 contacts in group KEEP
+2024-11-21 09:31:01 - INFO - Processing contacts in group KEEP
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Jojy Schless
+2024-11-21 09:31:01 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:31:01 - INFO -     added 4 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 4
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Robert D Schless
+2024-11-21 09:31:01 - INFO -     email addresses: rschless3@gmail.com, robert@schless.com
+2024-11-21 09:31:01 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 6
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Laurie Shea
+2024-11-21 09:31:01 - INFO -     email addresses: kwdsheas@gmail.com, kwdsheas@sbcglobal.net
+2024-11-21 09:31:01 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 8
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Dinice Buitendorp-Paul
+2024-11-21 09:31:01 - INFO -     email addresses: dinicejbp@gmail.com
+2024-11-21 09:31:01 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 9
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Patrick Schless
+2024-11-21 09:31:01 - INFO -     email addresses: patrick.schless@gmail.com, patrick@schless.com
+2024-11-21 09:31:01 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 11
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Joby George
+2024-11-21 09:31:01 - INFO -     email addresses: jobymail@gmail.com
+2024-11-21 09:31:01 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 12
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Nila Kannankeril
+2024-11-21 09:31:01 - INFO -     email addresses: nila.am.k@gmail.com, nilakannankeril14@augie.onmicrosoft.com, nilakannankeril14@augustana.edu
+2024-11-21 09:31:01 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 15
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Margarita Crupe
+2024-11-21 09:31:01 - INFO -     email addresses: bealifesaver@gmail.com, duchessdepaz@gmail.com, mamesmom@gmail.com
+2024-11-21 09:31:01 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 18
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Rani George
+2024-11-21 09:31:01 - INFO -     email addresses: anu_george@yahoo.com, 4anugeorge@gmail.com, ageorge@hometownone.com
+2024-11-21 09:31:01 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 21
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: John M Schless
+2024-11-21 09:31:01 - INFO -     email addresses: john@schless.com, jmsphone78@gmail.com
+2024-11-21 09:31:01 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 23
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Joey Paul
+2024-11-21 09:31:01 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:31:01 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 24
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Ann Schless
+2024-11-21 09:31:01 - INFO -     email addresses: ann@schless.com
+2024-11-21 09:31:01 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 25
+2024-11-21 09:31:01 - INFO -   Processing contact
+2024-11-21 09:31:01 - INFO -     names: Monica Schless
+2024-11-21 09:31:01 - INFO -     email addresses: monicaleonelle@gmail.com
+2024-11-21 09:31:01 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:31:01 - INFO -     total emails in group: 26
+2024-11-21 09:31:02 - DEBUG - Found 2 contacts in group KEEP_3M
+2024-11-21 09:31:02 - INFO - Processing contacts in group KEEP_3M
+2024-11-21 09:31:02 - INFO -   Processing contact
+2024-11-21 09:31:02 - INFO -     names: Jojy Schless
+2024-11-21 09:31:02 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:31:02 - INFO -     added 4 emails to group: KEEP_3M
+2024-11-21 09:31:02 - INFO -     total emails in group: 4
+2024-11-21 09:31:02 - INFO -   Processing contact
+2024-11-21 09:31:02 - INFO -     names: Joey Paul
+2024-11-21 09:31:02 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:31:02 - INFO -     added 1 emails to group: KEEP_3M
+2024-11-21 09:31:02 - INFO -     total emails in group: 5
+2024-11-21 09:31:02 - INFO - Contacts by KEEP label:
+2024-11-21 09:31:02 - INFO - {
+  "KEEP_7D": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ],
+  "KEEP": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "rschless3@gmail.com",
+    "robert@schless.com",
+    "kwdsheas@gmail.com",
+    "kwdsheas@sbcglobal.net",
+    "dinicejbp@gmail.com",
+    "patrick.schless@gmail.com",
+    "patrick@schless.com",
+    "jobymail@gmail.com",
+    "nila.am.k@gmail.com",
+    "nilakannankeril14@augie.onmicrosoft.com",
+    "nilakannankeril14@augustana.edu",
+    "bealifesaver@gmail.com",
+    "duchessdepaz@gmail.com",
+    "mamesmom@gmail.com",
+    "anu_george@yahoo.com",
+    "4anugeorge@gmail.com",
+    "ageorge@hometownone.com",
+    "john@schless.com",
+    "jmsphone78@gmail.com",
+    "joeygpaul@gmail.com",
+    "ann@schless.com",
+    "monicaleonelle@gmail.com"
+  ],
+  "KEEP_3M": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ]
+}
+2024-11-21 09:31:02 - INFO - KEEP labels by contact:
+2024-11-21 09:31:02 - INFO - {
+  "jojy.schless@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jschless@genevaeye.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy@fullcirclecoaches.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy_schless@cdh.org": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "joeygpaul@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "rschless3@gmail.com": [
+    "KEEP"
+  ],
+  "robert@schless.com": [
+    "KEEP"
+  ],
+  "kwdsheas@gmail.com": [
+    "KEEP"
+  ],
+  "kwdsheas@sbcglobal.net": [
+    "KEEP"
+  ],
+  "dinicejbp@gmail.com": [
+    "KEEP"
+  ],
+  "patrick.schless@gmail.com": [
+    "KEEP"
+  ],
+  "patrick@schless.com": [
+    "KEEP"
+  ],
+  "jobymail@gmail.com": [
+    "KEEP"
+  ],
+  "nila.am.k@gmail.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augie.onmicrosoft.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augustana.edu": [
+    "KEEP"
+  ],
+  "bealifesaver@gmail.com": [
+    "KEEP"
+  ],
+  "duchessdepaz@gmail.com": [
+    "KEEP"
+  ],
+  "mamesmom@gmail.com": [
+    "KEEP"
+  ],
+  "anu_george@yahoo.com": [
+    "KEEP"
+  ],
+  "4anugeorge@gmail.com": [
+    "KEEP"
+  ],
+  "ageorge@hometownone.com": [
+    "KEEP"
+  ],
+  "john@schless.com": [
+    "KEEP"
+  ],
+  "jmsphone78@gmail.com": [
+    "KEEP"
+  ],
+  "ann@schless.com": [
+    "KEEP"
+  ],
+  "monicaleonelle@gmail.com": [
+    "KEEP"
+  ]
+}
+2024-11-21 09:31:02 - INFO - Verifying Gmail messages and labels...
+2024-11-21 09:31:02 - INFO - Checking email 1/26: jojy.schless@gmail.com
+2024-11-21 09:31:02 - INFO - Checking email 2/26: jschless@genevaeye.com
+2024-11-21 09:31:03 - INFO - Checking email 3/26: jojy@fullcirclecoaches.com
+2024-11-21 09:31:03 - INFO - Checking email 4/26: jojy_schless@cdh.org
+2024-11-21 09:31:03 - INFO - Checking email 5/26: joeygpaul@gmail.com
+2024-11-21 09:31:04 - INFO - Checking email 6/26: rschless3@gmail.com
+2024-11-21 09:31:04 - INFO - Checking email 7/26: robert@schless.com
+2024-11-21 09:31:04 - INFO - Checking email 8/26: kwdsheas@gmail.com
+2024-11-21 09:31:04 - INFO - Checking email 9/26: kwdsheas@sbcglobal.net
+2024-11-21 09:31:05 - INFO - Checking email 10/26: dinicejbp@gmail.com
+2024-11-21 09:31:05 - INFO - Checking email 11/26: patrick.schless@gmail.com
+2024-11-21 09:31:05 - INFO - Checking email 12/26: patrick@schless.com
+2024-11-21 09:31:06 - INFO - Checking email 13/26: jobymail@gmail.com
+2024-11-21 09:31:06 - INFO - Checking email 14/26: nila.am.k@gmail.com
+2024-11-21 09:31:06 - INFO - Checking email 15/26: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:31:06 - WARNING - No messages found for nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:31:06 - INFO - Checking email 16/26: nilakannankeril14@augustana.edu
+2024-11-21 09:31:07 - INFO - Checking email 17/26: bealifesaver@gmail.com
+2024-11-21 09:31:07 - INFO - Checking email 18/26: duchessdepaz@gmail.com
+2024-11-21 09:31:07 - INFO - Checking email 19/26: mamesmom@gmail.com
+2024-11-21 09:31:07 - INFO - Checking email 20/26: anu_george@yahoo.com
+2024-11-21 09:31:08 - INFO - Checking email 21/26: 4anugeorge@gmail.com
+2024-11-21 09:31:08 - INFO - Checking email 22/26: ageorge@hometownone.com
+2024-11-21 09:31:08 - INFO - Checking email 23/26: john@schless.com
+2024-11-21 09:31:09 - INFO - Checking email 24/26: jmsphone78@gmail.com
+2024-11-21 09:31:09 - INFO - Checking email 25/26: ann@schless.com
+2024-11-21 09:31:09 - INFO - Checking email 26/26: monicaleonelle@gmail.com
+2024-11-21 09:31:09 - INFO - Gmail Label Verification Results:
+2024-11-21 09:31:09 - INFO - ================================================================================
+2024-11-21 09:31:09 - INFO - Email: jojy.schless@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:31:09 - INFO - Missing labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:31:09 - INFO - Email: jschless@genevaeye.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:31:09 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: jojy@fullcirclecoaches.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:31:09 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: jojy_schless@cdh.org
+2024-11-21 09:31:09 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:31:09 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: joeygpaul@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:31:09 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: rschless3@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: robert@schless.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Missing labels: KEEP
+2024-11-21 09:31:09 - INFO - Email: kwdsheas@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Missing labels: KEEP
+2024-11-21 09:31:09 - INFO - Email: kwdsheas@sbcglobal.net
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: dinicejbp@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: patrick.schless@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Missing labels: KEEP
+2024-11-21 09:31:09 - INFO - Email: patrick@schless.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: jobymail@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: nila.am.k@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Missing labels: KEEP
+2024-11-21 09:31:09 - INFO - Email: nilakannankeril14@augustana.edu
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Missing labels: KEEP
+2024-11-21 09:31:09 - INFO - Email: bealifesaver@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: duchessdepaz@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: mamesmom@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: anu_george@yahoo.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: 4anugeorge@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: ageorge@hometownone.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Missing labels: KEEP
+2024-11-21 09:31:09 - INFO - Email: john@schless.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Missing labels: KEEP
+2024-11-21 09:31:09 - INFO - Email: jmsphone78@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Present labels: KEEP
+2024-11-21 09:31:09 - INFO - All required labels are present!
+2024-11-21 09:31:09 - INFO - Email: ann@schless.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Missing labels: KEEP
+2024-11-21 09:31:09 - INFO - Email: monicaleonelle@gmail.com
+2024-11-21 09:31:09 - INFO - Required labels: KEEP
+2024-11-21 09:31:09 - INFO - Missing labels: KEEP
+2024-11-21 09:31:09 - INFO - Summary: 16/26 emails have all required labels
+2024-11-21 09:31:09 - INFO - Applying missing labels to Gmail messages...
+2024-11-21 09:31:10 - INFO - 
+Processing jojy.schless@gmail.com...
+2024-11-21 09:31:10 - INFO - DRY RUN: Would apply labels ['KEEP_7D', 'KEEP_3M', 'KEEP'] to messages from jojy.schless@gmail.com
+2024-11-21 09:31:10 - INFO - 
+Processing robert@schless.com...
+2024-11-21 09:31:10 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from robert@schless.com
+2024-11-21 09:31:10 - INFO - 
+Processing kwdsheas@gmail.com...
+2024-11-21 09:31:10 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from kwdsheas@gmail.com
+2024-11-21 09:31:10 - INFO - 
+Processing patrick.schless@gmail.com...
+2024-11-21 09:31:10 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from patrick.schless@gmail.com
+2024-11-21 09:31:10 - INFO - 
+Processing nilakannankeril14@augie.onmicrosoft.com...
+2024-11-21 09:31:10 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:31:10 - INFO - 
+Processing nilakannankeril14@augustana.edu...
+2024-11-21 09:31:10 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from nilakannankeril14@augustana.edu
+2024-11-21 09:31:10 - INFO - 
+Processing ageorge@hometownone.com...
+2024-11-21 09:31:10 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from ageorge@hometownone.com
+2024-11-21 09:31:10 - INFO - 
+Processing john@schless.com...
+2024-11-21 09:31:10 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from john@schless.com
+2024-11-21 09:31:10 - INFO - 
+Processing ann@schless.com...
+2024-11-21 09:31:10 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from ann@schless.com
+2024-11-21 09:31:10 - INFO - 
+Processing monicaleonelle@gmail.com...
+2024-11-21 09:31:10 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from monicaleonelle@gmail.com
+2024-11-21 09:31:10 - INFO - 
+DRY RUN complete - no labels were actually applied
+2024-11-21 09:31:10 - INFO - Label Update Summary:
+2024-11-21 09:31:10 - INFO - Updated 0 messages across 0 email addresses
+2024-11-21 09:31:10 - INFO - Verifying email addresses in Gmail messages...
+2024-11-21 09:31:10 - INFO - Checking email 1/26: kwdsheas@sbcglobal.net
+2024-11-21 09:31:10 - INFO -   - Scanned 500 messages in 0.2 seconds (3168.1 msgs/sec)
+2024-11-21 09:31:10 - INFO - Checking email 2/26: jobymail@gmail.com
+2024-11-21 09:31:10 - INFO -   - Scanned 9 messages in 0.1 seconds (81.2 msgs/sec)
+2024-11-21 09:31:10 - INFO - Checking email 3/26: 4anugeorge@gmail.com
+2024-11-21 09:31:10 - INFO -   - Scanned 89 messages in 0.1 seconds (749.5 msgs/sec)
+2024-11-21 09:31:10 - INFO - Checking email 4/26: kwdsheas@gmail.com
+2024-11-21 09:31:10 - INFO -   - Scanned 500 messages in 0.1 seconds (4049.0 msgs/sec)
+2024-11-21 09:31:10 - INFO - Checking email 5/26: john@schless.com
+2024-11-21 09:31:10 - INFO -   - Scanned 500 messages in 0.1 seconds (3909.0 msgs/sec)
+2024-11-21 09:31:10 - INFO - Checking email 6/26: anu_george@yahoo.com
+2024-11-21 09:31:10 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:31:10 - INFO - Checking email 7/26: nilakannankeril14@augustana.edu
+2024-11-21 09:31:10 - INFO -   - Scanned 37 messages in 0.1 seconds (377.0 msgs/sec)
+2024-11-21 09:31:10 - INFO - Checking email 8/26: ann@schless.com
+2024-11-21 09:31:11 - INFO -   - Scanned 500 messages in 0.1 seconds (3827.3 msgs/sec)
+2024-11-21 09:31:11 - INFO - Checking email 9/26: patrick@schless.com
+2024-11-21 09:31:11 - INFO -   - Scanned 40 messages in 0.1 seconds (458.7 msgs/sec)
+2024-11-21 09:31:11 - INFO - Checking email 10/26: joeygpaul@gmail.com
+2024-11-21 09:31:11 - INFO -   - Scanned 3 messages in 0.1 seconds (31.8 msgs/sec)
+2024-11-21 09:31:11 - INFO - Checking email 11/26: rschless3@gmail.com
+2024-11-21 09:31:11 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:31:11 - INFO - Checking email 12/26: jojy.schless@gmail.com
+2024-11-21 09:31:11 - INFO -   - Scanned 500 messages in 0.1 seconds (3936.0 msgs/sec)
+2024-11-21 09:31:11 - INFO - Checking email 13/26: jschless@genevaeye.com
+2024-11-21 09:31:11 - INFO -   - Scanned 2 messages in 0.1 seconds (19.8 msgs/sec)
+2024-11-21 09:31:11 - INFO - Checking email 14/26: nila.am.k@gmail.com
+2024-11-21 09:31:11 - INFO -   - Scanned 500 messages in 0.1 seconds (3617.0 msgs/sec)
+2024-11-21 09:31:11 - INFO - Checking email 15/26: ageorge@hometownone.com
+2024-11-21 09:31:11 - INFO -   - Scanned 3 messages in 0.1 seconds (29.0 msgs/sec)
+2024-11-21 09:31:11 - INFO - Checking email 16/26: robert@schless.com
+2024-11-21 09:31:11 - INFO -   - Scanned 500 messages in 0.1 seconds (4390.2 msgs/sec)
+2024-11-21 09:31:11 - INFO - Checking email 17/26: monicaleonelle@gmail.com
+2024-11-21 09:31:12 - INFO -   - Scanned 500 messages in 0.1 seconds (4120.4 msgs/sec)
+2024-11-21 09:31:12 - INFO - Checking email 18/26: patrick.schless@gmail.com
+2024-11-21 09:31:12 - INFO -   - Scanned 500 messages in 0.1 seconds (3959.1 msgs/sec)
+2024-11-21 09:31:12 - INFO - Checking email 19/26: mamesmom@gmail.com
+2024-11-21 09:31:12 - INFO -   - Scanned 7 messages in 0.1 seconds (72.8 msgs/sec)
+2024-11-21 09:31:12 - INFO - Checking email 20/26: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:31:12 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:31:12 - INFO - Checking email 21/26: duchessdepaz@gmail.com
+2024-11-21 09:31:12 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:31:12 - INFO - Checking email 22/26: jmsphone78@gmail.com
+2024-11-21 09:31:12 - INFO -   - Scanned 29 messages in 0.1 seconds (360.6 msgs/sec)
+2024-11-21 09:31:12 - INFO - Checking email 23/26: dinicejbp@gmail.com
+2024-11-21 09:31:12 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:31:12 - INFO - Checking email 24/26: bealifesaver@gmail.com
+2024-11-21 09:31:12 - INFO -   - Scanned 53 messages in 0.1 seconds (482.6 msgs/sec)
+2024-11-21 09:31:12 - INFO - Checking email 25/26: jojy_schless@cdh.org
+2024-11-21 09:31:12 - INFO -   - Scanned 27 messages in 0.1 seconds (298.5 msgs/sec)
+2024-11-21 09:31:12 - INFO - Checking email 26/26: jojy@fullcirclecoaches.com
+2024-11-21 09:31:13 - INFO -   - Scanned 323 messages in 0.1 seconds (2549.6 msgs/sec)
+2024-11-21 09:31:13 - INFO - Email Verification Statistics:
+2024-11-21 09:31:13 - INFO - Total time: 2.9 seconds
+2024-11-21 09:31:13 - INFO - Total messages scanned: 5122
+2024-11-21 09:31:13 - INFO - Average processing rate: 1740.9 messages/second
+2024-11-21 09:31:13 - INFO - Average time per email: 0.1 seconds
+2024-11-21 09:31:13 - INFO - Email Verification Results:
+2024-11-21 09:31:13 - INFO - Email Address                           Found in Gmail
+2024-11-21 09:31:13 - INFO - ------------------------------------------------------------
+2024-11-21 09:31:13 - INFO - kwdsheas@sbcglobal.net                   YES
+2024-11-21 09:31:13 - INFO - jobymail@gmail.com                       YES
+2024-11-21 09:31:13 - INFO - 4anugeorge@gmail.com                     YES
+2024-11-21 09:31:13 - INFO - kwdsheas@gmail.com                       YES
+2024-11-21 09:31:13 - INFO - john@schless.com                         YES
+2024-11-21 09:31:13 - INFO - anu_george@yahoo.com                     NO
+2024-11-21 09:31:13 - INFO - nilakannankeril14@augustana.edu          YES
+2024-11-21 09:31:13 - INFO - ann@schless.com                          YES
+2024-11-21 09:31:13 - INFO - patrick@schless.com                      YES
+2024-11-21 09:31:13 - INFO - joeygpaul@gmail.com                      YES
+2024-11-21 09:31:13 - INFO - rschless3@gmail.com                      NO
+2024-11-21 09:31:13 - INFO - jojy.schless@gmail.com                   YES
+2024-11-21 09:31:13 - INFO - jschless@genevaeye.com                   YES
+2024-11-21 09:31:13 - INFO - nila.am.k@gmail.com                      YES
+2024-11-21 09:31:13 - INFO - ageorge@hometownone.com                  YES
+2024-11-21 09:31:13 - INFO - robert@schless.com                       YES
+2024-11-21 09:31:13 - INFO - monicaleonelle@gmail.com                 YES
+2024-11-21 09:31:13 - INFO - patrick.schless@gmail.com                YES
+2024-11-21 09:31:13 - INFO - mamesmom@gmail.com                       YES
+2024-11-21 09:31:13 - INFO - nilakannankeril14@augie.onmicrosoft.com  NO
+2024-11-21 09:31:13 - INFO - duchessdepaz@gmail.com                   NO
+2024-11-21 09:31:13 - INFO - jmsphone78@gmail.com                     YES
+2024-11-21 09:31:13 - INFO - dinicejbp@gmail.com                      NO
+2024-11-21 09:31:13 - INFO - bealifesaver@gmail.com                   YES
+2024-11-21 09:31:13 - INFO - jojy_schless@cdh.org                     YES
+2024-11-21 09:31:13 - INFO - jojy@fullcirclecoaches.com               YES
+2024-11-21 09:31:13 - INFO - Summary: 21/26 emails found in Gmail messages
+2024-11-21 09:31:13 - INFO - Found thread with subject matching query. Thread ID: 192a7e235583f4bb
+2024-11-21 09:31:13 - INFO - Message labels: Label_1467874027980154250, Label_2954033496675434178, CATEGORY_SOCIAL
+2024-11-21 09:31:13 - INFO - Message labels: IMPORTANT, SENT, INBOX
+2024-11-21 09:31:13 - INFO - Processing expired threads...
+2024-11-21 09:31:13 - INFO - Fetching all GMail labels...
+2024-11-21 09:31:13 - INFO - Found 6 'KEEP' labels in GMail: KEEP_2D, KEEP_2Y, KEEP, KEEP_4D, KEEP_7D, KEEP_3M
+2024-11-21 09:31:13 - INFO - Found 9 threads matching 'subject:"Shellie White" AND (KEEP_2D OR KEEP_2Y OR KEEP OR KEEP_4D OR KEEP_7D OR KEEP_3M)'
+2024-11-21 09:31:13 - DEBUG - Thread ID: 192fe2d4b004c087
+2024-11-21 09:31:13 - DEBUG -   message ID: 192fe2d4b004c087
+2024-11-21 09:31:13 - INFO -    snippet: The story will expire tomorrow at 9:03 AM, so  ...
+2024-11-21 09:31:13 - INFO -    DRY RUN: Thread WOULD have been deleted 192fe2d4b004c087 - (expiry: 2024-11-19)
+2024-11-21 09:31:13 - DEBUG - Thread ID: 192a7e235583f4bb
+2024-11-21 09:31:13 - DEBUG -   message ID: 192a7e235583f4bb
+2024-11-21 09:31:13 - DEBUG -   'KEEP' labels: KEEP_2D
+2024-11-21 09:31:13 - DEBUG -   message ID: 1934ac9fce12f7ee
+2024-11-21 09:31:50 - INFO -    snippet: Dan Schless ---------- Forwarded message ----- ...
+2024-11-21 09:31:50 - INFO -    DRY RUN: Thread WOULD have been deleted 192a7e235583f4bb - (expiry: 2024-10-21)
+2024-11-21 09:31:50 - DEBUG - Thread ID: 1919f45002deaae4
+2024-11-21 09:31:50 - DEBUG -   message ID: 1919f45002deaae4
+2024-11-21 09:31:50 - INFO -    DRY RUN: Thread WOULD have been deleted 1919f45002deaae4 - (expiry: 2024-09-12)
+2024-11-21 09:31:50 - DEBUG - Thread ID: 1918b6fd9e3448e8
+2024-11-21 09:31:50 - DEBUG -   message ID: 1918b6fd9e3448e8
+2024-11-21 09:31:50 - INFO -    DRY RUN: Thread WOULD have been deleted 1918b6fd9e3448e8 - (expiry: 2024-09-08)
+2024-11-21 09:31:50 - DEBUG - Thread ID: 191576319c2cfd4e
+2024-11-21 09:31:50 - DEBUG -   message ID: 191576319c2cfd4e
+2024-11-21 09:31:50 - INFO -    DRY RUN: Thread WOULD have been deleted 191576319c2cfd4e - (expiry: 2024-08-29)
+2024-11-21 09:31:51 - DEBUG - Thread ID: 191475bce985d139
+2024-11-21 09:31:51 - DEBUG -   message ID: 191475bce985d139
+2024-11-21 09:31:51 - INFO -    snippet: Dan, here&#39;s Shellie White&#39;s new photo  ...
+2024-11-21 09:31:51 - INFO -    DRY RUN: Thread WOULD have been deleted 191475bce985d139 - (expiry: 2024-08-26)
+2024-11-21 09:31:51 - DEBUG - Thread ID: 1911ea4be08f2d20
+2024-11-21 09:31:51 - DEBUG -   message ID: 1911ea4be08f2d20
+2024-11-21 09:31:51 - INFO -    DRY RUN: Thread WOULD have been deleted 1911ea4be08f2d20 - (expiry: 2024-08-18)
+2024-11-21 09:31:51 - DEBUG - Thread ID: 190c8a73e5d29070
+2024-11-21 09:31:51 - DEBUG -   message ID: 190c8a73e5d29070
+2024-11-21 09:31:51 - INFO -    snippet: Dan, here&#39;s Shellie White&#39;s new photo  ...
+2024-11-21 09:31:51 - INFO -    DRY RUN: Thread WOULD have been deleted 190c8a73e5d29070 - (expiry: 2024-08-01)
+2024-11-21 09:31:51 - DEBUG - Thread ID: 1839b4973f4090e1
+2024-11-21 09:31:51 - DEBUG -   message ID: 1839b4973f4090e1
+2024-11-21 09:31:51 - INFO -    snippet: View Shellie White&#39;s comment on your statu ...
+2024-11-21 09:31:51 - INFO -    DRY RUN: Thread WOULD have been deleted 1839b4973f4090e1 - (expiry: 2022-10-16)
+2024-11-21 09:31:52 - INFO - Expired Threads Summary:
+2024-11-21 09:31:52 - INFO -   processed: 9
+2024-11-21 09:31:52 - INFO -   expired: 9
+2024-11-21 09:31:52 - INFO -   deleted: 0
+2024-11-21 09:31:52 - INFO - Expired Threads Summary:
+2024-11-21 09:31:52 - INFO - Threads processed: 9
+2024-11-21 09:31:52 - INFO - Threads expired: 9
+2024-11-21 09:31:52 - INFO - Threads deleted: 0
+2024-11-21 09:32:10 - INFO - Running in DRY RUN mode - no changes will be made
+2024-11-21 09:32:10 - INFO - Loading saved credentials...
+2024-11-21 09:32:10 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-21 09:32:10 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-21 09:32:10 - INFO - Found 3 'KEEP' groups: KEEP_7D, KEEP, KEEP_3M
+2024-11-21 09:32:10 - DEBUG - Found 2 contacts in group KEEP_7D
+2024-11-21 09:32:10 - INFO - Processing contacts in group KEEP_7D
+2024-11-21 09:32:10 - INFO -   Processing contact
+2024-11-21 09:32:10 - INFO -     names: Jojy Schless
+2024-11-21 09:32:10 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:32:10 - INFO -     added 4 emails to group: KEEP_7D
+2024-11-21 09:32:10 - INFO -     total emails in group: 4
+2024-11-21 09:32:10 - INFO -   Processing contact
+2024-11-21 09:32:10 - INFO -     names: Joey Paul
+2024-11-21 09:32:10 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:32:10 - INFO -     added 1 emails to group: KEEP_7D
+2024-11-21 09:32:10 - INFO -     total emails in group: 5
+2024-11-21 09:32:10 - DEBUG - Found 14 contacts in group KEEP
+2024-11-21 09:32:11 - INFO - Processing contacts in group KEEP
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Jojy Schless
+2024-11-21 09:32:11 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:32:11 - INFO -     added 4 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 4
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Robert D Schless
+2024-11-21 09:32:11 - INFO -     email addresses: rschless3@gmail.com, robert@schless.com
+2024-11-21 09:32:11 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 6
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Laurie Shea
+2024-11-21 09:32:11 - INFO -     email addresses: kwdsheas@gmail.com, kwdsheas@sbcglobal.net
+2024-11-21 09:32:11 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 8
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Dinice Buitendorp-Paul
+2024-11-21 09:32:11 - INFO -     email addresses: dinicejbp@gmail.com
+2024-11-21 09:32:11 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 9
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Patrick Schless
+2024-11-21 09:32:11 - INFO -     email addresses: patrick.schless@gmail.com, patrick@schless.com
+2024-11-21 09:32:11 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 11
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Joby George
+2024-11-21 09:32:11 - INFO -     email addresses: jobymail@gmail.com
+2024-11-21 09:32:11 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 12
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Nila Kannankeril
+2024-11-21 09:32:11 - INFO -     email addresses: nila.am.k@gmail.com, nilakannankeril14@augie.onmicrosoft.com, nilakannankeril14@augustana.edu
+2024-11-21 09:32:11 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 15
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Margarita Crupe
+2024-11-21 09:32:11 - INFO -     email addresses: bealifesaver@gmail.com, duchessdepaz@gmail.com, mamesmom@gmail.com
+2024-11-21 09:32:11 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 18
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Rani George
+2024-11-21 09:32:11 - INFO -     email addresses: anu_george@yahoo.com, 4anugeorge@gmail.com, ageorge@hometownone.com
+2024-11-21 09:32:11 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 21
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: John M Schless
+2024-11-21 09:32:11 - INFO -     email addresses: john@schless.com, jmsphone78@gmail.com
+2024-11-21 09:32:11 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 23
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Joey Paul
+2024-11-21 09:32:11 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:32:11 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 24
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Ann Schless
+2024-11-21 09:32:11 - INFO -     email addresses: ann@schless.com
+2024-11-21 09:32:11 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 25
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Monica Schless
+2024-11-21 09:32:11 - INFO -     email addresses: monicaleonelle@gmail.com
+2024-11-21 09:32:11 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:32:11 - INFO -     total emails in group: 26
+2024-11-21 09:32:11 - DEBUG - Found 2 contacts in group KEEP_3M
+2024-11-21 09:32:11 - INFO - Processing contacts in group KEEP_3M
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Jojy Schless
+2024-11-21 09:32:11 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:32:11 - INFO -     added 4 emails to group: KEEP_3M
+2024-11-21 09:32:11 - INFO -     total emails in group: 4
+2024-11-21 09:32:11 - INFO -   Processing contact
+2024-11-21 09:32:11 - INFO -     names: Joey Paul
+2024-11-21 09:32:11 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:32:11 - INFO -     added 1 emails to group: KEEP_3M
+2024-11-21 09:32:11 - INFO -     total emails in group: 5
+2024-11-21 09:32:11 - INFO - Contacts by KEEP label:
+2024-11-21 09:32:11 - INFO - {
+  "KEEP_7D": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ],
+  "KEEP": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "rschless3@gmail.com",
+    "robert@schless.com",
+    "kwdsheas@gmail.com",
+    "kwdsheas@sbcglobal.net",
+    "dinicejbp@gmail.com",
+    "patrick.schless@gmail.com",
+    "patrick@schless.com",
+    "jobymail@gmail.com",
+    "nila.am.k@gmail.com",
+    "nilakannankeril14@augie.onmicrosoft.com",
+    "nilakannankeril14@augustana.edu",
+    "bealifesaver@gmail.com",
+    "duchessdepaz@gmail.com",
+    "mamesmom@gmail.com",
+    "anu_george@yahoo.com",
+    "4anugeorge@gmail.com",
+    "ageorge@hometownone.com",
+    "john@schless.com",
+    "jmsphone78@gmail.com",
+    "joeygpaul@gmail.com",
+    "ann@schless.com",
+    "monicaleonelle@gmail.com"
+  ],
+  "KEEP_3M": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ]
+}
+2024-11-21 09:32:11 - INFO - KEEP labels by contact:
+2024-11-21 09:32:11 - INFO - {
+  "jojy.schless@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jschless@genevaeye.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy@fullcirclecoaches.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy_schless@cdh.org": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "joeygpaul@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "rschless3@gmail.com": [
+    "KEEP"
+  ],
+  "robert@schless.com": [
+    "KEEP"
+  ],
+  "kwdsheas@gmail.com": [
+    "KEEP"
+  ],
+  "kwdsheas@sbcglobal.net": [
+    "KEEP"
+  ],
+  "dinicejbp@gmail.com": [
+    "KEEP"
+  ],
+  "patrick.schless@gmail.com": [
+    "KEEP"
+  ],
+  "patrick@schless.com": [
+    "KEEP"
+  ],
+  "jobymail@gmail.com": [
+    "KEEP"
+  ],
+  "nila.am.k@gmail.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augie.onmicrosoft.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augustana.edu": [
+    "KEEP"
+  ],
+  "bealifesaver@gmail.com": [
+    "KEEP"
+  ],
+  "duchessdepaz@gmail.com": [
+    "KEEP"
+  ],
+  "mamesmom@gmail.com": [
+    "KEEP"
+  ],
+  "anu_george@yahoo.com": [
+    "KEEP"
+  ],
+  "4anugeorge@gmail.com": [
+    "KEEP"
+  ],
+  "ageorge@hometownone.com": [
+    "KEEP"
+  ],
+  "john@schless.com": [
+    "KEEP"
+  ],
+  "jmsphone78@gmail.com": [
+    "KEEP"
+  ],
+  "ann@schless.com": [
+    "KEEP"
+  ],
+  "monicaleonelle@gmail.com": [
+    "KEEP"
+  ]
+}
+2024-11-21 09:32:11 - INFO - Verifying Gmail messages and labels...
+2024-11-21 09:32:11 - INFO - Checking email 1/26: jojy.schless@gmail.com
+2024-11-21 09:32:12 - INFO - Checking email 2/26: jschless@genevaeye.com
+2024-11-21 09:32:12 - INFO - Checking email 3/26: jojy@fullcirclecoaches.com
+2024-11-21 09:32:12 - INFO - Checking email 4/26: jojy_schless@cdh.org
+2024-11-21 09:32:12 - INFO - Checking email 5/26: joeygpaul@gmail.com
+2024-11-21 09:32:13 - INFO - Checking email 6/26: rschless3@gmail.com
+2024-11-21 09:32:13 - INFO - Checking email 7/26: robert@schless.com
+2024-11-21 09:32:13 - INFO - Checking email 8/26: kwdsheas@gmail.com
+2024-11-21 09:32:14 - INFO - Checking email 9/26: kwdsheas@sbcglobal.net
+2024-11-21 09:32:14 - INFO - Checking email 10/26: dinicejbp@gmail.com
+2024-11-21 09:32:14 - INFO - Checking email 11/26: patrick.schless@gmail.com
+2024-11-21 09:32:15 - INFO - Checking email 12/26: patrick@schless.com
+2024-11-21 09:32:15 - INFO - Checking email 13/26: jobymail@gmail.com
+2024-11-21 09:32:15 - INFO - Checking email 14/26: nila.am.k@gmail.com
+2024-11-21 09:32:15 - INFO - Checking email 15/26: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:32:16 - WARNING - No messages found for nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:32:16 - INFO - Checking email 16/26: nilakannankeril14@augustana.edu
+2024-11-21 09:32:16 - INFO - Checking email 17/26: bealifesaver@gmail.com
+2024-11-21 09:32:16 - INFO - Checking email 18/26: duchessdepaz@gmail.com
+2024-11-21 09:32:16 - INFO - Checking email 19/26: mamesmom@gmail.com
+2024-11-21 09:32:17 - INFO - Checking email 20/26: anu_george@yahoo.com
+2024-11-21 09:32:17 - INFO - Checking email 21/26: 4anugeorge@gmail.com
+2024-11-21 09:32:17 - INFO - Checking email 22/26: ageorge@hometownone.com
+2024-11-21 09:32:18 - INFO - Checking email 23/26: john@schless.com
+2024-11-21 09:32:18 - INFO - Checking email 24/26: jmsphone78@gmail.com
+2024-11-21 09:32:18 - INFO - Checking email 25/26: ann@schless.com
+2024-11-21 09:32:19 - INFO - Checking email 26/26: monicaleonelle@gmail.com
+2024-11-21 09:32:19 - INFO - Gmail Label Verification Results:
+2024-11-21 09:32:19 - INFO - ================================================================================
+2024-11-21 09:32:19 - INFO - Email: jojy.schless@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:32:19 - INFO - Missing labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:32:19 - INFO - Email: jschless@genevaeye.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:32:19 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: jojy@fullcirclecoaches.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:32:19 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: jojy_schless@cdh.org
+2024-11-21 09:32:19 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:32:19 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: joeygpaul@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:32:19 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: rschless3@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: robert@schless.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Missing labels: KEEP
+2024-11-21 09:32:19 - INFO - Email: kwdsheas@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Missing labels: KEEP
+2024-11-21 09:32:19 - INFO - Email: kwdsheas@sbcglobal.net
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: dinicejbp@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: patrick.schless@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Missing labels: KEEP
+2024-11-21 09:32:19 - INFO - Email: patrick@schless.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: jobymail@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: nila.am.k@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Missing labels: KEEP
+2024-11-21 09:32:19 - INFO - Email: nilakannankeril14@augustana.edu
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Missing labels: KEEP
+2024-11-21 09:32:19 - INFO - Email: bealifesaver@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: duchessdepaz@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: mamesmom@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: anu_george@yahoo.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: 4anugeorge@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: ageorge@hometownone.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Missing labels: KEEP
+2024-11-21 09:32:19 - INFO - Email: john@schless.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Missing labels: KEEP
+2024-11-21 09:32:19 - INFO - Email: jmsphone78@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Present labels: KEEP
+2024-11-21 09:32:19 - INFO - All required labels are present!
+2024-11-21 09:32:19 - INFO - Email: ann@schless.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Missing labels: KEEP
+2024-11-21 09:32:19 - INFO - Email: monicaleonelle@gmail.com
+2024-11-21 09:32:19 - INFO - Required labels: KEEP
+2024-11-21 09:32:19 - INFO - Missing labels: KEEP
+2024-11-21 09:32:19 - INFO - Summary: 16/26 emails have all required labels
+2024-11-21 09:32:19 - INFO - Applying missing labels to Gmail messages...
+2024-11-21 09:32:19 - INFO - 
+Processing jojy.schless@gmail.com...
+2024-11-21 09:32:19 - INFO - DRY RUN: Would apply labels ['KEEP_7D', 'KEEP', 'KEEP_3M'] to messages from jojy.schless@gmail.com
+2024-11-21 09:32:19 - INFO - 
+Processing robert@schless.com...
+2024-11-21 09:32:19 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from robert@schless.com
+2024-11-21 09:32:19 - INFO - 
+Processing kwdsheas@gmail.com...
+2024-11-21 09:32:19 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from kwdsheas@gmail.com
+2024-11-21 09:32:19 - INFO - 
+Processing patrick.schless@gmail.com...
+2024-11-21 09:32:19 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from patrick.schless@gmail.com
+2024-11-21 09:32:19 - INFO - 
+Processing nilakannankeril14@augie.onmicrosoft.com...
+2024-11-21 09:32:19 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:32:19 - INFO - 
+Processing nilakannankeril14@augustana.edu...
+2024-11-21 09:32:19 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from nilakannankeril14@augustana.edu
+2024-11-21 09:32:19 - INFO - 
+Processing ageorge@hometownone.com...
+2024-11-21 09:32:19 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from ageorge@hometownone.com
+2024-11-21 09:32:19 - INFO - 
+Processing john@schless.com...
+2024-11-21 09:32:19 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from john@schless.com
+2024-11-21 09:32:19 - INFO - 
+Processing ann@schless.com...
+2024-11-21 09:32:19 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from ann@schless.com
+2024-11-21 09:32:19 - INFO - 
+Processing monicaleonelle@gmail.com...
+2024-11-21 09:32:19 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from monicaleonelle@gmail.com
+2024-11-21 09:32:19 - INFO - 
+DRY RUN complete - no labels were actually applied
+2024-11-21 09:32:19 - INFO - Label Update Summary:
+2024-11-21 09:32:19 - INFO - Updated 0 messages across 0 email addresses
+2024-11-21 09:32:19 - INFO - Verifying email addresses in Gmail messages...
+2024-11-21 09:32:19 - INFO - Checking email 1/26: jojy@fullcirclecoaches.com
+2024-11-21 09:32:19 - INFO -   - Scanned 323 messages in 0.2 seconds (2034.4 msgs/sec)
+2024-11-21 09:32:19 - INFO - Checking email 2/26: anu_george@yahoo.com
+2024-11-21 09:32:19 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:32:19 - INFO - Checking email 3/26: joeygpaul@gmail.com
+2024-11-21 09:32:19 - INFO -   - Scanned 3 messages in 0.1 seconds (30.1 msgs/sec)
+2024-11-21 09:32:19 - INFO - Checking email 4/26: jmsphone78@gmail.com
+2024-11-21 09:32:20 - INFO -   - Scanned 29 messages in 0.2 seconds (191.5 msgs/sec)
+2024-11-21 09:32:20 - INFO - Checking email 5/26: mamesmom@gmail.com
+2024-11-21 09:32:20 - INFO -   - Scanned 7 messages in 0.1 seconds (73.6 msgs/sec)
+2024-11-21 09:32:20 - INFO - Checking email 6/26: robert@schless.com
+2024-11-21 09:32:20 - INFO -   - Scanned 500 messages in 0.1 seconds (3434.1 msgs/sec)
+2024-11-21 09:32:20 - INFO - Checking email 7/26: patrick.schless@gmail.com
+2024-11-21 09:32:20 - INFO -   - Scanned 500 messages in 0.1 seconds (3564.5 msgs/sec)
+2024-11-21 09:32:20 - INFO - Checking email 8/26: jschless@genevaeye.com
+2024-11-21 09:32:20 - INFO -   - Scanned 2 messages in 0.1 seconds (24.1 msgs/sec)
+2024-11-21 09:32:20 - INFO - Checking email 9/26: kwdsheas@gmail.com
+2024-11-21 09:32:20 - INFO -   - Scanned 500 messages in 0.1 seconds (3951.1 msgs/sec)
+2024-11-21 09:32:20 - INFO - Checking email 10/26: dinicejbp@gmail.com
+2024-11-21 09:32:20 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:32:20 - INFO - Checking email 11/26: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:32:20 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:32:20 - INFO - Checking email 12/26: patrick@schless.com
+2024-11-21 09:32:21 - INFO -   - Scanned 40 messages in 0.1 seconds (322.4 msgs/sec)
+2024-11-21 09:32:21 - INFO - Checking email 13/26: john@schless.com
+2024-11-21 09:32:21 - INFO -   - Scanned 500 messages in 0.1 seconds (3660.2 msgs/sec)
+2024-11-21 09:32:21 - INFO - Checking email 14/26: jobymail@gmail.com
+2024-11-21 09:32:21 - INFO -   - Scanned 9 messages in 0.1 seconds (88.9 msgs/sec)
+2024-11-21 09:32:21 - INFO - Checking email 15/26: nilakannankeril14@augustana.edu
+2024-11-21 09:32:21 - INFO -   - Scanned 37 messages in 0.1 seconds (364.3 msgs/sec)
+2024-11-21 09:32:21 - INFO - Checking email 16/26: kwdsheas@sbcglobal.net
+2024-11-21 09:32:21 - INFO -   - Scanned 500 messages in 0.1 seconds (3443.7 msgs/sec)
+2024-11-21 09:32:21 - INFO - Checking email 17/26: duchessdepaz@gmail.com
+2024-11-21 09:32:21 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:32:21 - INFO - Checking email 18/26: rschless3@gmail.com
+2024-11-21 09:32:21 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:32:21 - INFO - Checking email 19/26: jojy.schless@gmail.com
+2024-11-21 09:32:21 - INFO -   - Scanned 500 messages in 0.2 seconds (2873.2 msgs/sec)
+2024-11-21 09:32:21 - INFO - Checking email 20/26: nila.am.k@gmail.com
+2024-11-21 09:32:22 - INFO -   - Scanned 500 messages in 0.1 seconds (4072.8 msgs/sec)
+2024-11-21 09:32:22 - INFO - Checking email 21/26: ageorge@hometownone.com
+2024-11-21 09:32:22 - INFO -   - Scanned 3 messages in 0.1 seconds (33.0 msgs/sec)
+2024-11-21 09:32:22 - INFO - Checking email 22/26: ann@schless.com
+2024-11-21 09:32:22 - INFO -   - Scanned 500 messages in 0.1 seconds (3999.4 msgs/sec)
+2024-11-21 09:32:22 - INFO - Checking email 23/26: monicaleonelle@gmail.com
+2024-11-21 09:32:22 - INFO -   - Scanned 500 messages in 0.1 seconds (3709.2 msgs/sec)
+2024-11-21 09:32:22 - INFO - Checking email 24/26: jojy_schless@cdh.org
+2024-11-21 09:32:22 - INFO -   - Scanned 27 messages in 0.1 seconds (266.7 msgs/sec)
+2024-11-21 09:32:22 - INFO - Checking email 25/26: 4anugeorge@gmail.com
+2024-11-21 09:32:22 - INFO -   - Scanned 89 messages in 0.1 seconds (850.0 msgs/sec)
+2024-11-21 09:32:22 - INFO - Checking email 26/26: bealifesaver@gmail.com
+2024-11-21 09:32:22 - INFO -   - Scanned 53 messages in 0.1 seconds (589.8 msgs/sec)
+2024-11-21 09:32:22 - INFO - Email Verification Statistics:
+2024-11-21 09:32:22 - INFO - Total time: 3.2 seconds
+2024-11-21 09:32:22 - INFO - Total messages scanned: 5122
+2024-11-21 09:32:22 - INFO - Average processing rate: 1612.7 messages/second
+2024-11-21 09:32:22 - INFO - Average time per email: 0.1 seconds
+2024-11-21 09:32:22 - INFO - Email Verification Results:
+2024-11-21 09:32:22 - INFO - Email Address                           Found in Gmail
+2024-11-21 09:32:22 - INFO - ------------------------------------------------------------
+2024-11-21 09:32:22 - INFO - jojy@fullcirclecoaches.com               YES
+2024-11-21 09:32:22 - INFO - anu_george@yahoo.com                     NO
+2024-11-21 09:32:22 - INFO - joeygpaul@gmail.com                      YES
+2024-11-21 09:32:22 - INFO - jmsphone78@gmail.com                     YES
+2024-11-21 09:32:22 - INFO - mamesmom@gmail.com                       YES
+2024-11-21 09:32:22 - INFO - robert@schless.com                       YES
+2024-11-21 09:32:22 - INFO - patrick.schless@gmail.com                YES
+2024-11-21 09:32:22 - INFO - jschless@genevaeye.com                   YES
+2024-11-21 09:32:22 - INFO - kwdsheas@gmail.com                       YES
+2024-11-21 09:32:22 - INFO - dinicejbp@gmail.com                      NO
+2024-11-21 09:32:22 - INFO - nilakannankeril14@augie.onmicrosoft.com  NO
+2024-11-21 09:32:22 - INFO - patrick@schless.com                      YES
+2024-11-21 09:32:22 - INFO - john@schless.com                         YES
+2024-11-21 09:32:22 - INFO - jobymail@gmail.com                       YES
+2024-11-21 09:32:22 - INFO - nilakannankeril14@augustana.edu          YES
+2024-11-21 09:32:22 - INFO - kwdsheas@sbcglobal.net                   YES
+2024-11-21 09:32:22 - INFO - duchessdepaz@gmail.com                   NO
+2024-11-21 09:32:22 - INFO - rschless3@gmail.com                      NO
+2024-11-21 09:32:22 - INFO - jojy.schless@gmail.com                   YES
+2024-11-21 09:32:22 - INFO - nila.am.k@gmail.com                      YES
+2024-11-21 09:32:22 - INFO - ageorge@hometownone.com                  YES
+2024-11-21 09:32:22 - INFO - ann@schless.com                          YES
+2024-11-21 09:32:22 - INFO - monicaleonelle@gmail.com                 YES
+2024-11-21 09:32:22 - INFO - jojy_schless@cdh.org                     YES
+2024-11-21 09:32:22 - INFO - 4anugeorge@gmail.com                     YES
+2024-11-21 09:32:22 - INFO - bealifesaver@gmail.com                   YES
+2024-11-21 09:32:22 - INFO - Summary: 21/26 emails found in Gmail messages
+2024-11-21 09:32:23 - INFO - Found thread with subject matching query. Thread ID: 192a7e235583f4bb
+2024-11-21 09:32:23 - INFO - Message labels: Label_1467874027980154250, Label_2954033496675434178, CATEGORY_SOCIAL
+2024-11-21 09:32:23 - INFO - Message labels: IMPORTANT, SENT, INBOX
+2024-11-21 09:32:23 - INFO - Processing expired threads...
+2024-11-21 09:32:23 - INFO - Fetching all GMail labels...
+2024-11-21 09:32:23 - INFO - Found 6 'KEEP' labels in GMail: KEEP_2D, KEEP_2Y, KEEP, KEEP_4D, KEEP_7D, KEEP_3M
+2024-11-21 09:32:23 - INFO - Found 9 threads matching 'subject:"Shellie White" AND (KEEP_2D OR KEEP_2Y OR KEEP OR KEEP_4D OR KEEP_7D OR KEEP_3M)'
+2024-11-21 09:32:23 - DEBUG - Thread ID: 192fe2d4b004c087
+2024-11-21 09:32:23 - DEBUG -   message ID: 192fe2d4b004c087
+2024-11-21 09:32:23 - INFO -    snippet: The story will expire tomorrow at 9:03 AM, so  ...
+2024-11-21 09:32:23 - INFO -    DRY RUN: Thread WOULD have been deleted 192fe2d4b004c087 - (expiry: 2024-11-19)
+2024-11-21 09:32:23 - DEBUG - Thread ID: 192a7e235583f4bb
+2024-11-21 09:32:23 - DEBUG -   message ID: 192a7e235583f4bb
+2024-11-21 09:32:23 - DEBUG -   'KEEP' labels: KEEP_2D
+2024-11-21 09:32:23 - DEBUG -   message ID: 1934ac9fce12f7ee
+2024-11-21 09:32:23 - INFO -    snippet: Dan Schless ---------- Forwarded message ----- ...
+2024-11-21 09:32:23 - INFO -    DRY RUN: Thread WOULD have been deleted 192a7e235583f4bb - (expiry: 2024-10-21)
+2024-11-21 09:32:23 - DEBUG - Thread ID: 1919f45002deaae4
+2024-11-21 09:32:23 - DEBUG -   message ID: 1919f45002deaae4
+2024-11-21 09:32:23 - INFO -    DRY RUN: Thread WOULD have been deleted 1919f45002deaae4 - (expiry: 2024-09-12)
+2024-11-21 09:32:24 - DEBUG - Thread ID: 1918b6fd9e3448e8
+2024-11-21 09:32:24 - DEBUG -   message ID: 1918b6fd9e3448e8
+2024-11-21 09:32:24 - INFO -    DRY RUN: Thread WOULD have been deleted 1918b6fd9e3448e8 - (expiry: 2024-09-08)
+2024-11-21 09:32:24 - DEBUG - Thread ID: 191576319c2cfd4e
+2024-11-21 09:32:24 - DEBUG -   message ID: 191576319c2cfd4e
+2024-11-21 09:32:24 - INFO -    DRY RUN: Thread WOULD have been deleted 191576319c2cfd4e - (expiry: 2024-08-29)
+2024-11-21 09:32:24 - DEBUG - Thread ID: 191475bce985d139
+2024-11-21 09:32:24 - DEBUG -   message ID: 191475bce985d139
+2024-11-21 09:32:24 - INFO -    snippet: Dan, here&#39;s Shellie White&#39;s new photo  ...
+2024-11-21 09:32:24 - INFO -    DRY RUN: Thread WOULD have been deleted 191475bce985d139 - (expiry: 2024-08-26)
+2024-11-21 09:32:24 - DEBUG - Thread ID: 1911ea4be08f2d20
+2024-11-21 09:32:24 - DEBUG -   message ID: 1911ea4be08f2d20
+2024-11-21 09:32:24 - INFO -    DRY RUN: Thread WOULD have been deleted 1911ea4be08f2d20 - (expiry: 2024-08-18)
+2024-11-21 09:32:24 - DEBUG - Thread ID: 190c8a73e5d29070
+2024-11-21 09:32:24 - DEBUG -   message ID: 190c8a73e5d29070
+2024-11-21 09:32:24 - INFO -    snippet: Dan, here&#39;s Shellie White&#39;s new photo  ...
+2024-11-21 09:32:24 - INFO -    DRY RUN: Thread WOULD have been deleted 190c8a73e5d29070 - (expiry: 2024-08-01)
+2024-11-21 09:32:25 - DEBUG - Thread ID: 1839b4973f4090e1
+2024-11-21 09:32:25 - DEBUG -   message ID: 1839b4973f4090e1
+2024-11-21 09:32:25 - INFO -    snippet: View Shellie White&#39;s comment on your statu ...
+2024-11-21 09:32:25 - INFO -    DRY RUN: Thread WOULD have been deleted 1839b4973f4090e1 - (expiry: 2022-10-16)
+2024-11-21 09:32:26 - INFO - Expired Threads Summary:
+2024-11-21 09:32:26 - INFO -   processed: 9
+2024-11-21 09:32:26 - INFO -   expired: 9
+2024-11-21 09:32:26 - INFO -   deleted: 0
+2024-11-21 09:32:26 - INFO - Expired Threads Summary:
+2024-11-21 09:32:26 - INFO - Threads processed: 9
+2024-11-21 09:32:26 - INFO - Threads expired: 9
+2024-11-21 09:32:26 - INFO - Threads deleted: 0
+2024-11-21 09:37:25 - INFO - Running in DRY RUN mode - no changes will be made
+2024-11-21 09:37:25 - INFO - Loading saved credentials...
+2024-11-21 09:37:25 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-21 09:37:25 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-11-21 09:37:26 - INFO - Found 3 'KEEP' groups: KEEP_7D, KEEP, KEEP_3M
+2024-11-21 09:37:26 - DEBUG - Found 2 contacts in group KEEP_7D
+2024-11-21 09:37:26 - INFO - Processing contacts in group KEEP_7D
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Jojy Schless
+2024-11-21 09:37:26 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:37:26 - INFO -     added 4 emails to group: KEEP_7D
+2024-11-21 09:37:26 - INFO -     total emails in group: 4
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Joey Paul
+2024-11-21 09:37:26 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:37:26 - INFO -     added 1 emails to group: KEEP_7D
+2024-11-21 09:37:26 - INFO -     total emails in group: 5
+2024-11-21 09:37:26 - DEBUG - Found 14 contacts in group KEEP
+2024-11-21 09:37:26 - INFO - Processing contacts in group KEEP
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Jojy Schless
+2024-11-21 09:37:26 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:37:26 - INFO -     added 4 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 4
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Robert D Schless
+2024-11-21 09:37:26 - INFO -     email addresses: rschless3@gmail.com, robert@schless.com
+2024-11-21 09:37:26 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 6
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Laurie Shea
+2024-11-21 09:37:26 - INFO -     email addresses: kwdsheas@gmail.com, kwdsheas@sbcglobal.net
+2024-11-21 09:37:26 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 8
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Dinice Buitendorp-Paul
+2024-11-21 09:37:26 - INFO -     email addresses: dinicejbp@gmail.com
+2024-11-21 09:37:26 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 9
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Patrick Schless
+2024-11-21 09:37:26 - INFO -     email addresses: patrick.schless@gmail.com, patrick@schless.com
+2024-11-21 09:37:26 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 11
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Joby George
+2024-11-21 09:37:26 - INFO -     email addresses: jobymail@gmail.com
+2024-11-21 09:37:26 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 12
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Nila Kannankeril
+2024-11-21 09:37:26 - INFO -     email addresses: nila.am.k@gmail.com, nilakannankeril14@augie.onmicrosoft.com, nilakannankeril14@augustana.edu
+2024-11-21 09:37:26 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 15
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Margarita Crupe
+2024-11-21 09:37:26 - INFO -     email addresses: bealifesaver@gmail.com, duchessdepaz@gmail.com, mamesmom@gmail.com
+2024-11-21 09:37:26 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 18
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Rani George
+2024-11-21 09:37:26 - INFO -     email addresses: anu_george@yahoo.com, 4anugeorge@gmail.com, ageorge@hometownone.com
+2024-11-21 09:37:26 - INFO -     added 3 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 21
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: John M Schless
+2024-11-21 09:37:26 - INFO -     email addresses: john@schless.com, jmsphone78@gmail.com
+2024-11-21 09:37:26 - INFO -     added 2 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 23
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Joey Paul
+2024-11-21 09:37:26 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:37:26 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 24
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Ann Schless
+2024-11-21 09:37:26 - INFO -     email addresses: ann@schless.com
+2024-11-21 09:37:26 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 25
+2024-11-21 09:37:26 - INFO -   Processing contact
+2024-11-21 09:37:26 - INFO -     names: Monica Schless
+2024-11-21 09:37:26 - INFO -     email addresses: monicaleonelle@gmail.com
+2024-11-21 09:37:26 - INFO -     added 1 emails to group: KEEP
+2024-11-21 09:37:26 - INFO -     total emails in group: 26
+2024-11-21 09:37:26 - DEBUG - Found 2 contacts in group KEEP_3M
+2024-11-21 09:37:27 - INFO - Processing contacts in group KEEP_3M
+2024-11-21 09:37:27 - INFO -   Processing contact
+2024-11-21 09:37:27 - INFO -     names: Jojy Schless
+2024-11-21 09:37:27 - INFO -     email addresses: jojy.schless@gmail.com, jschless@genevaeye.com, jojy@fullcirclecoaches.com, jojy_schless@cdh.org
+2024-11-21 09:37:27 - INFO -     added 4 emails to group: KEEP_3M
+2024-11-21 09:37:27 - INFO -     total emails in group: 4
+2024-11-21 09:37:27 - INFO -   Processing contact
+2024-11-21 09:37:27 - INFO -     names: Joey Paul
+2024-11-21 09:37:27 - INFO -     email addresses: joeygpaul@gmail.com
+2024-11-21 09:37:27 - INFO -     added 1 emails to group: KEEP_3M
+2024-11-21 09:37:27 - INFO -     total emails in group: 5
+2024-11-21 09:37:27 - INFO - Contacts by KEEP label:
+2024-11-21 09:37:27 - INFO - {
+  "KEEP_7D": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ],
+  "KEEP": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "rschless3@gmail.com",
+    "robert@schless.com",
+    "kwdsheas@gmail.com",
+    "kwdsheas@sbcglobal.net",
+    "dinicejbp@gmail.com",
+    "patrick.schless@gmail.com",
+    "patrick@schless.com",
+    "jobymail@gmail.com",
+    "nila.am.k@gmail.com",
+    "nilakannankeril14@augie.onmicrosoft.com",
+    "nilakannankeril14@augustana.edu",
+    "bealifesaver@gmail.com",
+    "duchessdepaz@gmail.com",
+    "mamesmom@gmail.com",
+    "anu_george@yahoo.com",
+    "4anugeorge@gmail.com",
+    "ageorge@hometownone.com",
+    "john@schless.com",
+    "jmsphone78@gmail.com",
+    "joeygpaul@gmail.com",
+    "ann@schless.com",
+    "monicaleonelle@gmail.com"
+  ],
+  "KEEP_3M": [
+    "jojy.schless@gmail.com",
+    "jschless@genevaeye.com",
+    "jojy@fullcirclecoaches.com",
+    "jojy_schless@cdh.org",
+    "joeygpaul@gmail.com"
+  ]
+}
+2024-11-21 09:37:27 - INFO - KEEP labels by contact:
+2024-11-21 09:37:27 - INFO - {
+  "jojy.schless@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jschless@genevaeye.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy@fullcirclecoaches.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "jojy_schless@cdh.org": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "joeygpaul@gmail.com": [
+    "KEEP",
+    "KEEP_3M",
+    "KEEP_7D"
+  ],
+  "rschless3@gmail.com": [
+    "KEEP"
+  ],
+  "robert@schless.com": [
+    "KEEP"
+  ],
+  "kwdsheas@gmail.com": [
+    "KEEP"
+  ],
+  "kwdsheas@sbcglobal.net": [
+    "KEEP"
+  ],
+  "dinicejbp@gmail.com": [
+    "KEEP"
+  ],
+  "patrick.schless@gmail.com": [
+    "KEEP"
+  ],
+  "patrick@schless.com": [
+    "KEEP"
+  ],
+  "jobymail@gmail.com": [
+    "KEEP"
+  ],
+  "nila.am.k@gmail.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augie.onmicrosoft.com": [
+    "KEEP"
+  ],
+  "nilakannankeril14@augustana.edu": [
+    "KEEP"
+  ],
+  "bealifesaver@gmail.com": [
+    "KEEP"
+  ],
+  "duchessdepaz@gmail.com": [
+    "KEEP"
+  ],
+  "mamesmom@gmail.com": [
+    "KEEP"
+  ],
+  "anu_george@yahoo.com": [
+    "KEEP"
+  ],
+  "4anugeorge@gmail.com": [
+    "KEEP"
+  ],
+  "ageorge@hometownone.com": [
+    "KEEP"
+  ],
+  "john@schless.com": [
+    "KEEP"
+  ],
+  "jmsphone78@gmail.com": [
+    "KEEP"
+  ],
+  "ann@schless.com": [
+    "KEEP"
+  ],
+  "monicaleonelle@gmail.com": [
+    "KEEP"
+  ]
+}
+2024-11-21 09:37:27 - INFO - Verifying Gmail messages and labels...
+2024-11-21 09:37:27 - INFO - Checking email 1/26: jojy.schless@gmail.com
+2024-11-21 09:37:27 - INFO - Checking email 2/26: jschless@genevaeye.com
+2024-11-21 09:37:28 - INFO - Checking email 3/26: jojy@fullcirclecoaches.com
+2024-11-21 09:37:28 - INFO - Checking email 4/26: jojy_schless@cdh.org
+2024-11-21 09:37:28 - INFO - Checking email 5/26: joeygpaul@gmail.com
+2024-11-21 09:37:29 - INFO - Checking email 6/26: rschless3@gmail.com
+2024-11-21 09:37:29 - INFO - Checking email 7/26: robert@schless.com
+2024-11-21 09:37:29 - INFO - Checking email 8/26: kwdsheas@gmail.com
+2024-11-21 09:37:30 - INFO - Checking email 9/26: kwdsheas@sbcglobal.net
+2024-11-21 09:37:30 - INFO - Checking email 10/26: dinicejbp@gmail.com
+2024-11-21 09:37:30 - INFO - Checking email 11/26: patrick.schless@gmail.com
+2024-11-21 09:37:30 - INFO - Checking email 12/26: patrick@schless.com
+2024-11-21 09:37:31 - INFO - Checking email 13/26: jobymail@gmail.com
+2024-11-21 09:37:31 - INFO - Checking email 14/26: nila.am.k@gmail.com
+2024-11-21 09:37:31 - INFO - Checking email 15/26: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:37:31 - WARNING - No messages found for nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:37:31 - INFO - Checking email 16/26: nilakannankeril14@augustana.edu
+2024-11-21 09:37:32 - INFO - Checking email 17/26: bealifesaver@gmail.com
+2024-11-21 09:37:32 - INFO - Checking email 18/26: duchessdepaz@gmail.com
+2024-11-21 09:37:32 - INFO - Checking email 19/26: mamesmom@gmail.com
+2024-11-21 09:37:33 - INFO - Checking email 20/26: anu_george@yahoo.com
+2024-11-21 09:37:33 - INFO - Checking email 21/26: 4anugeorge@gmail.com
+2024-11-21 09:37:33 - INFO - Checking email 22/26: ageorge@hometownone.com
+2024-11-21 09:37:33 - INFO - Checking email 23/26: john@schless.com
+2024-11-21 09:37:34 - INFO - Checking email 24/26: jmsphone78@gmail.com
+2024-11-21 09:37:34 - INFO - Checking email 25/26: ann@schless.com
+2024-11-21 09:37:34 - INFO - Checking email 26/26: monicaleonelle@gmail.com
+2024-11-21 09:37:35 - INFO - Gmail Label Verification Results:
+2024-11-21 09:37:35 - INFO - ================================================================================
+2024-11-21 09:37:35 - INFO - Email: jojy.schless@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:37:35 - INFO - Missing labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:37:35 - INFO - Email: jschless@genevaeye.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:37:35 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: jojy@fullcirclecoaches.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:37:35 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: jojy_schless@cdh.org
+2024-11-21 09:37:35 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:37:35 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: joeygpaul@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:37:35 - INFO - Present labels: KEEP, KEEP_3M, KEEP_7D
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: rschless3@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: robert@schless.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Missing labels: KEEP
+2024-11-21 09:37:35 - INFO - Email: kwdsheas@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Missing labels: KEEP
+2024-11-21 09:37:35 - INFO - Email: kwdsheas@sbcglobal.net
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: dinicejbp@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: patrick.schless@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Missing labels: KEEP
+2024-11-21 09:37:35 - INFO - Email: patrick@schless.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: jobymail@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: nila.am.k@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Missing labels: KEEP
+2024-11-21 09:37:35 - INFO - Email: nilakannankeril14@augustana.edu
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Missing labels: KEEP
+2024-11-21 09:37:35 - INFO - Email: bealifesaver@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: duchessdepaz@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: mamesmom@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: anu_george@yahoo.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: 4anugeorge@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: ageorge@hometownone.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Missing labels: KEEP
+2024-11-21 09:37:35 - INFO - Email: john@schless.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Missing labels: KEEP
+2024-11-21 09:37:35 - INFO - Email: jmsphone78@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Present labels: KEEP
+2024-11-21 09:37:35 - INFO - All required labels are present!
+2024-11-21 09:37:35 - INFO - Email: ann@schless.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Missing labels: KEEP
+2024-11-21 09:37:35 - INFO - Email: monicaleonelle@gmail.com
+2024-11-21 09:37:35 - INFO - Required labels: KEEP
+2024-11-21 09:37:35 - INFO - Missing labels: KEEP
+2024-11-21 09:37:35 - INFO - Summary: 16/26 emails have all required labels
+2024-11-21 09:37:35 - INFO - Applying missing labels to Gmail messages...
+2024-11-21 09:37:35 - INFO - 
+Processing jojy.schless@gmail.com...
+2024-11-21 09:37:35 - INFO - DRY RUN: Would apply labels ['KEEP', 'KEEP_3M', 'KEEP_7D'] to messages from jojy.schless@gmail.com
+2024-11-21 09:37:35 - INFO - 
+Processing robert@schless.com...
+2024-11-21 09:37:35 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from robert@schless.com
+2024-11-21 09:37:35 - INFO - 
+Processing kwdsheas@gmail.com...
+2024-11-21 09:37:35 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from kwdsheas@gmail.com
+2024-11-21 09:37:35 - INFO - 
+Processing patrick.schless@gmail.com...
+2024-11-21 09:37:35 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from patrick.schless@gmail.com
+2024-11-21 09:37:35 - INFO - 
+Processing nilakannankeril14@augie.onmicrosoft.com...
+2024-11-21 09:37:35 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:37:35 - INFO - 
+Processing nilakannankeril14@augustana.edu...
+2024-11-21 09:37:35 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from nilakannankeril14@augustana.edu
+2024-11-21 09:37:35 - INFO - 
+Processing ageorge@hometownone.com...
+2024-11-21 09:37:35 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from ageorge@hometownone.com
+2024-11-21 09:37:35 - INFO - 
+Processing john@schless.com...
+2024-11-21 09:37:35 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from john@schless.com
+2024-11-21 09:37:35 - INFO - 
+Processing ann@schless.com...
+2024-11-21 09:37:35 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from ann@schless.com
+2024-11-21 09:37:35 - INFO - 
+Processing monicaleonelle@gmail.com...
+2024-11-21 09:37:35 - INFO - DRY RUN: Would apply labels ['KEEP'] to messages from monicaleonelle@gmail.com
+2024-11-21 09:37:35 - INFO - 
+DRY RUN complete - no labels were actually applied
+2024-11-21 09:37:35 - INFO - Label Update Summary:
+2024-11-21 09:37:35 - INFO - Updated 0 messages across 0 email addresses
+2024-11-21 09:37:35 - INFO - Verifying email addresses in Gmail messages...
+2024-11-21 09:37:35 - INFO - Checking email 1/26: nilakannankeril14@augustana.edu
+2024-11-21 09:37:35 - INFO -   - Scanned 37 messages in 0.1 seconds (305.6 msgs/sec)
+2024-11-21 09:37:35 - INFO - Checking email 2/26: dinicejbp@gmail.com
+2024-11-21 09:37:35 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:37:35 - INFO - Checking email 3/26: joeygpaul@gmail.com
+2024-11-21 09:37:35 - INFO -   - Scanned 3 messages in 0.1 seconds (31.3 msgs/sec)
+2024-11-21 09:37:35 - INFO - Checking email 4/26: jojy@fullcirclecoaches.com
+2024-11-21 09:37:35 - INFO -   - Scanned 323 messages in 0.1 seconds (2592.8 msgs/sec)
+2024-11-21 09:37:35 - INFO - Checking email 5/26: nilakannankeril14@augie.onmicrosoft.com
+2024-11-21 09:37:35 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:37:35 - INFO - Checking email 6/26: mamesmom@gmail.com
+2024-11-21 09:37:35 - INFO -   - Scanned 7 messages in 0.1 seconds (70.9 msgs/sec)
+2024-11-21 09:37:35 - INFO - Checking email 7/26: bealifesaver@gmail.com
+2024-11-21 09:37:35 - INFO -   - Scanned 53 messages in 0.1 seconds (548.3 msgs/sec)
+2024-11-21 09:37:35 - INFO - Checking email 8/26: jmsphone78@gmail.com
+2024-11-21 09:37:36 - INFO -   - Scanned 29 messages in 0.1 seconds (326.4 msgs/sec)
+2024-11-21 09:37:36 - INFO - Checking email 9/26: 4anugeorge@gmail.com
+2024-11-21 09:37:36 - INFO -   - Scanned 89 messages in 0.1 seconds (869.0 msgs/sec)
+2024-11-21 09:37:36 - INFO - Checking email 10/26: john@schless.com
+2024-11-21 09:37:36 - INFO -   - Scanned 500 messages in 0.1 seconds (3891.2 msgs/sec)
+2024-11-21 09:37:36 - INFO - Checking email 11/26: jojy.schless@gmail.com
+2024-11-21 09:37:36 - INFO -   - Scanned 500 messages in 0.1 seconds (3709.7 msgs/sec)
+2024-11-21 09:37:36 - INFO - Checking email 12/26: kwdsheas@gmail.com
+2024-11-21 09:37:36 - INFO -   - Scanned 500 messages in 0.1 seconds (4240.4 msgs/sec)
+2024-11-21 09:37:36 - INFO - Checking email 13/26: patrick.schless@gmail.com
+2024-11-21 09:37:36 - INFO -   - Scanned 500 messages in 0.1 seconds (4428.1 msgs/sec)
+2024-11-21 09:37:36 - INFO - Checking email 14/26: patrick@schless.com
+2024-11-21 09:37:36 - INFO -   - Scanned 40 messages in 0.1 seconds (426.9 msgs/sec)
+2024-11-21 09:37:36 - INFO - Checking email 15/26: ann@schless.com
+2024-11-21 09:37:36 - INFO -   - Scanned 500 messages in 0.1 seconds (3683.9 msgs/sec)
+2024-11-21 09:37:36 - INFO - Checking email 16/26: anu_george@yahoo.com
+2024-11-21 09:37:36 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:37:36 - INFO - Checking email 17/26: duchessdepaz@gmail.com
+2024-11-21 09:37:37 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:37:37 - INFO - Checking email 18/26: robert@schless.com
+2024-11-21 09:37:37 - INFO -   - Scanned 500 messages in 0.1 seconds (3574.7 msgs/sec)
+2024-11-21 09:37:37 - INFO - Checking email 19/26: jschless@genevaeye.com
+2024-11-21 09:37:37 - INFO -   - Scanned 2 messages in 0.1 seconds (20.5 msgs/sec)
+2024-11-21 09:37:37 - INFO - Checking email 20/26: monicaleonelle@gmail.com
+2024-11-21 09:37:37 - INFO -   - Scanned 500 messages in 0.1 seconds (4022.6 msgs/sec)
+2024-11-21 09:37:37 - INFO - Checking email 21/26: jojy_schless@cdh.org
+2024-11-21 09:37:37 - INFO -   - Scanned 27 messages in 0.1 seconds (242.9 msgs/sec)
+2024-11-21 09:37:37 - INFO - Checking email 22/26: rschless3@gmail.com
+2024-11-21 09:37:37 - INFO -   - Scanned 0 messages in 0.1 seconds (0.0 msgs/sec)
+2024-11-21 09:37:37 - INFO - Checking email 23/26: ageorge@hometownone.com
+2024-11-21 09:37:37 - INFO -   - Scanned 3 messages in 0.1 seconds (33.3 msgs/sec)
+2024-11-21 09:37:37 - INFO - Checking email 24/26: jobymail@gmail.com
+2024-11-21 09:37:37 - INFO -   - Scanned 9 messages in 0.1 seconds (81.6 msgs/sec)
+2024-11-21 09:37:37 - INFO - Checking email 25/26: nila.am.k@gmail.com
+2024-11-21 09:37:38 - INFO -   - Scanned 500 messages in 0.1 seconds (3831.5 msgs/sec)
+2024-11-21 09:37:38 - INFO - Checking email 26/26: kwdsheas@sbcglobal.net
+2024-11-21 09:37:38 - INFO -   - Scanned 500 messages in 0.1 seconds (4064.1 msgs/sec)
+2024-11-21 09:37:38 - INFO - Email Verification Statistics:
+2024-11-21 09:37:38 - INFO - Total time: 2.9 seconds
+2024-11-21 09:37:38 - INFO - Total messages scanned: 5122
+2024-11-21 09:37:38 - INFO - Average processing rate: 1750.8 messages/second
+2024-11-21 09:37:38 - INFO - Average time per email: 0.1 seconds
+2024-11-21 09:37:38 - INFO - Email Verification Results:
+2024-11-21 09:37:38 - INFO - Email Address                           Found in Gmail
+2024-11-21 09:37:38 - INFO - ------------------------------------------------------------
+2024-11-21 09:37:38 - INFO - nilakannankeril14@augustana.edu          YES
+2024-11-21 09:37:38 - INFO - dinicejbp@gmail.com                      NO
+2024-11-21 09:37:38 - INFO - joeygpaul@gmail.com                      YES
+2024-11-21 09:37:38 - INFO - jojy@fullcirclecoaches.com               YES
+2024-11-21 09:37:38 - INFO - nilakannankeril14@augie.onmicrosoft.com  NO
+2024-11-21 09:37:38 - INFO - mamesmom@gmail.com                       YES
+2024-11-21 09:37:38 - INFO - bealifesaver@gmail.com                   YES
+2024-11-21 09:37:38 - INFO - jmsphone78@gmail.com                     YES
+2024-11-21 09:37:38 - INFO - 4anugeorge@gmail.com                     YES
+2024-11-21 09:37:38 - INFO - john@schless.com                         YES
+2024-11-21 09:37:38 - INFO - jojy.schless@gmail.com                   YES
+2024-11-21 09:37:38 - INFO - kwdsheas@gmail.com                       YES
+2024-11-21 09:37:38 - INFO - patrick.schless@gmail.com                YES
+2024-11-21 09:37:38 - INFO - patrick@schless.com                      YES
+2024-11-21 09:37:38 - INFO - ann@schless.com                          YES
+2024-11-21 09:37:38 - INFO - anu_george@yahoo.com                     NO
+2024-11-21 09:37:38 - INFO - duchessdepaz@gmail.com                   NO
+2024-11-21 09:37:38 - INFO - robert@schless.com                       YES
+2024-11-21 09:37:38 - INFO - jschless@genevaeye.com                   YES
+2024-11-21 09:37:38 - INFO - monicaleonelle@gmail.com                 YES
+2024-11-21 09:37:38 - INFO - jojy_schless@cdh.org                     YES
+2024-11-21 09:37:38 - INFO - rschless3@gmail.com                      NO
+2024-11-21 09:37:38 - INFO - ageorge@hometownone.com                  YES
+2024-11-21 09:37:38 - INFO - jobymail@gmail.com                       YES
+2024-11-21 09:37:38 - INFO - nila.am.k@gmail.com                      YES
+2024-11-21 09:37:38 - INFO - kwdsheas@sbcglobal.net                   YES
+2024-11-21 09:37:38 - INFO - Summary: 21/26 emails found in Gmail messages
+2024-11-21 09:37:38 - INFO - Found thread with subject matching query. Thread ID: 192a7e235583f4bb
+2024-11-21 09:37:38 - INFO - Message labels: Label_1467874027980154250, Label_2954033496675434178, CATEGORY_SOCIAL
+2024-11-21 09:37:38 - INFO - Message labels: IMPORTANT, SENT, INBOX
+2024-11-21 09:37:38 - INFO - Processing expired threads...
+2024-11-21 09:37:38 - INFO - Fetching all GMail labels...
+2024-11-21 09:37:38 - INFO - Found 6 'KEEP' labels in GMail: KEEP_2D, KEEP_2Y, KEEP, KEEP_4D, KEEP_7D, KEEP_3M
+2024-11-21 09:37:38 - INFO - Found 9 threads matching 'subject:"Shellie White" AND (KEEP_2D OR KEEP_2Y OR KEEP OR KEEP_4D OR KEEP_7D OR KEEP_3M)'
+2024-11-21 09:37:38 - DEBUG - Thread ID: 192fe2d4b004c087
+2024-11-21 09:37:38 - DEBUG -   message ID: 192fe2d4b004c087
+2024-11-21 09:37:38 - INFO -    snippet: The story will expire tomorrow at 9:03 AM, so  ...
+2024-11-21 09:37:38 - INFO -    DRY RUN: Thread WOULD have been deleted 192fe2d4b004c087 - (expiry: 2024-11-19)
+2024-11-21 09:37:38 - DEBUG - Thread ID: 192a7e235583f4bb
+2024-11-21 09:37:38 - DEBUG -   message ID: 192a7e235583f4bb
+2024-11-21 09:37:38 - DEBUG -   'KEEP' labels: KEEP_2D
+2024-11-21 09:37:38 - DEBUG -   message ID: 1934ac9fce12f7ee
+2024-11-21 09:37:38 - INFO -    snippet: Dan Schless ---------- Forwarded message ----- ...
+2024-11-21 09:37:38 - INFO -    DRY RUN: Thread WOULD have been deleted 192a7e235583f4bb - (expiry: 2024-10-21)
+2024-11-21 09:37:39 - DEBUG - Thread ID: 1919f45002deaae4
+2024-11-21 09:37:39 - DEBUG -   message ID: 1919f45002deaae4
+2024-11-21 09:37:39 - INFO -    DRY RUN: Thread WOULD have been deleted 1919f45002deaae4 - (expiry: 2024-09-12)
+2024-11-21 09:37:39 - DEBUG - Thread ID: 1918b6fd9e3448e8
+2024-11-21 09:37:39 - DEBUG -   message ID: 1918b6fd9e3448e8
+2024-11-21 09:37:39 - INFO -    DRY RUN: Thread WOULD have been deleted 1918b6fd9e3448e8 - (expiry: 2024-09-08)
+2024-11-21 09:37:39 - DEBUG - Thread ID: 191576319c2cfd4e
+2024-11-21 09:37:39 - DEBUG -   message ID: 191576319c2cfd4e
+2024-11-21 09:37:39 - INFO -    DRY RUN: Thread WOULD have been deleted 191576319c2cfd4e - (expiry: 2024-08-29)
+2024-11-21 09:37:39 - DEBUG - Thread ID: 191475bce985d139
+2024-11-21 09:37:39 - DEBUG -   message ID: 191475bce985d139
+2024-11-21 09:37:39 - INFO -    snippet: Dan, here&#39;s Shellie White&#39;s new photo  ...
+2024-11-21 09:37:39 - INFO -    DRY RUN: Thread WOULD have been deleted 191475bce985d139 - (expiry: 2024-08-26)
+2024-11-21 09:37:39 - DEBUG - Thread ID: 1911ea4be08f2d20
+2024-11-21 09:37:39 - DEBUG -   message ID: 1911ea4be08f2d20
+2024-11-21 09:37:39 - INFO -    DRY RUN: Thread WOULD have been deleted 1911ea4be08f2d20 - (expiry: 2024-08-18)
+2024-11-21 09:37:40 - DEBUG - Thread ID: 190c8a73e5d29070
+2024-11-21 09:37:40 - DEBUG -   message ID: 190c8a73e5d29070
+2024-11-21 09:37:40 - INFO -    snippet: Dan, here&#39;s Shellie White&#39;s new photo  ...
+2024-11-21 09:37:40 - INFO -    DRY RUN: Thread WOULD have been deleted 190c8a73e5d29070 - (expiry: 2024-08-01)
+2024-11-21 09:37:40 - DEBUG - Thread ID: 1839b4973f4090e1
+2024-11-21 09:37:40 - DEBUG -   message ID: 1839b4973f4090e1
+2024-11-21 09:37:40 - INFO -    snippet: View Shellie White&#39;s comment on your statu ...
+2024-11-21 09:37:40 - INFO -    DRY RUN: Thread WOULD have been deleted 1839b4973f4090e1 - (expiry: 2022-10-16)
+2024-11-21 09:37:41 - INFO - Expired Threads Summary:
+2024-11-21 09:37:41 - INFO -   processed: 9
+2024-11-21 09:37:41 - INFO -   expired: 9
+2024-11-21 09:37:41 - INFO -   deleted: 0
+2024-11-21 09:37:41 - INFO - Expired Threads Summary:
+2024-11-21 09:37:41 - INFO - Threads processed: 9
+2024-11-21 09:37:41 - INFO - Threads expired: 9
+2024-11-21 09:37:41 - INFO - Threads deleted: 0
