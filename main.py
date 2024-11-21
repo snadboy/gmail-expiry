@@ -3,22 +3,27 @@ from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
-from dotenv import load_dotenv
 import os
 import json
 import re
 import pickle
-from typing import Any, Dict, List, Set, Optional
+from typing import Any, Dict, List, Set, Optional, Iterator
 import time
 import logging
 import traceback
-from datetime import datetime, timedelta
+from datetime import datetime, date
 from collections import defaultdict
 from dateutil.relativedelta import relativedelta
 from logging.handlers import RotatingFileHandler
 
-# Load environment variables
-load_dotenv()
+from config import (
+    SCOPES, OAUTH2_CONFIG, TOKEN_FILE,
+    KEEP_LABEL_PATTERN, KEEP_DURATION_PATTERN,
+    GMAIL_BATCH_SIZE, GMAIL_BATCH_DELAY,
+    PEOPLE_BATCH_SIZE, PEOPLE_MAX_MEMBERS, PEOPLE_PAGE_SIZE,
+    LOG_FILE, LOG_FORMAT, LOG_DATE_FORMAT, LOG_MAX_BYTES, LOG_BACKUP_COUNT,
+    TIME_UNITS, MAX_RETRY_ATTEMPTS, MAX_BACKOFF_TIME
+)
 
 @dataclass
 class Metadata:
@@ -32,7 +37,7 @@ class Metadata:
 class ContactGroup:
     resource_name: str
     etag: str
-    metadata: Optional[Metadata]  # metadata is now an instance of Metadata
+    metadata: Optional[Metadata]
     group_type: str
     name: str
     formatted_name: str
@@ -51,6 +56,95 @@ class ContactGroup:
             member_count=data['memberCount']
         )
 
+class PeopleService:
+    """Service class for Google People API operations."""
+    
+    def __init__(self, service):
+        self.service = service
+        
+    def get_contact_groups(self) -> List[ContactGroup]:
+        """Fetch all contact groups."""
+        try:
+            results = self.service.contactGroups().list().execute()
+            contact_groups = []
+            
+            for group in results.get('contactGroups', []):
+                try:
+                    contact_groups.append(ContactGroup.from_dict(group))
+                except KeyError as e:
+                    logging.error(f"Error parsing contact group: {e}")
+                    continue
+                    
+            return contact_groups
+        except Exception as e:
+            logging.error(f"Error fetching contact groups: {e}")
+            raise
+            
+    def get_keep_groups(self) -> List[ContactGroup]:
+        """Get all contact groups that start with 'KEEP'."""
+        return [
+            group for group in self.get_contact_groups()
+            if group.formatted_name == 'KEEP' or group.formatted_name.startswith('KEEP_')
+        ]
+        
+    def get_group_members(self, group: ContactGroup) -> List[str]:
+        """Get email addresses of members in a contact group."""
+        try:
+            # Fetch the detailed group info including member count
+            group_detail = self.service.contactGroups().get(
+                resourceName=group.resource_name,
+                maxMembers=PEOPLE_MAX_MEMBERS
+            ).execute()
+            
+            if not group_detail.get('memberCount', 0):
+                return []
+                
+            # Get the contact details for each member
+            members_result = self.service.contactGroups().members().list(
+                resourceName=group.resource_name,
+                pageSize=PEOPLE_PAGE_SIZE
+            ).execute()
+            
+            email_addresses = []
+            for member in members_result.get('memberResourceNames', []):
+                try:
+                    # Get the contact's details including email addresses
+                    person = self.service.people().get(
+                        resourceName=member,
+                        personFields='emailAddresses'
+                    ).execute()
+                    
+                    # Extract primary email or first available email
+                    emails = person.get('emailAddresses', [])
+                    if not emails:
+                        continue
+                        
+                    primary_email = next(
+                        (email['value'] for email in emails if email.get('metadata', {}).get('primary')),
+                        emails[0]['value']
+                    )
+                    email_addresses.append(primary_email)
+                    
+                except Exception as e:
+                    logging.error(f"Error fetching member details: {e}")
+                    continue
+                    
+            return email_addresses
+            
+        except Exception as e:
+            logging.error(f"Error fetching group members for {group.formatted_name}: {e}")
+            return []
+
+    def get_keep_contacts(self) -> Dict[str, List[str]]:
+        """Get all contacts with KEEP labels and their email addresses."""
+        contacts_by_label = defaultdict(list)
+        
+        for group in self.get_keep_groups():
+            email_addresses = self.get_group_members(group)
+            contacts_by_label[group.formatted_name].extend(email_addresses)
+            
+        return dict(contacts_by_label)
+
 @dataclass
 class ContactGroups:
     groups: List[ContactGroup]
@@ -63,82 +157,54 @@ class ContactGroups:
     def group_names(self) -> List[str]:
         return [group.formatted_name for group in self.groups]
 
-# Configure logging
 def setup_logging():
     """Configure logging with file and console handlers."""
-    log_formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s', 
-                                    datefmt='%Y-%m-%d %H:%M:%S')
-    
+    # Clear any existing handlers
+    for handler in logging.root.handlers[:]:
+        logging.root.removeHandler(handler)
+        
     # Configure root logger
     root_logger = logging.getLogger()
-    root_logger.setLevel(logging.DEBUG)
+    root_logger.setLevel(logging.INFO)  # Changed to INFO level
     
-    # Clear any existing handlers
-    root_logger.handlers = []
+    # Create formatters
+    file_formatter = logging.Formatter(LOG_FORMAT, datefmt=LOG_DATE_FORMAT)
+    console_formatter = logging.Formatter('%(levelname)s: %(message)s')
     
     # Create a filter to exclude URL request logs
     class URLFilter(logging.Filter):
         def filter(self, record):
             return not record.getMessage().startswith('URL being requested')
     
-    # File Handler with rotation
-    log_file = 'gmail_labels.log'
-    file_handler = RotatingFileHandler(
-        log_file,
-        maxBytes=2500 * 100,  # 2500 lines approximately (assuming average 100 bytes per line)
-        backupCount=5  # Keep 5 backup files
-    )
-    file_handler.setFormatter(log_formatter)
-    file_handler.addFilter(URLFilter())
-    root_logger.addHandler(file_handler)
+    try:
+        # File Handler with rotation
+        file_handler = RotatingFileHandler(
+            LOG_FILE,
+            maxBytes=LOG_MAX_BYTES,
+            backupCount=LOG_BACKUP_COUNT,
+            encoding='utf-8'  # Explicitly set encoding
+        )
+        file_handler.setFormatter(file_formatter)
+        file_handler.addFilter(URLFilter())
+        root_logger.addHandler(file_handler)
+    except Exception as e:
+        print(f"Warning: Could not set up file logging: {e}")
     
     # Console Handler
     console_handler = logging.StreamHandler()
-    console_handler.setFormatter(log_formatter)
+    console_handler.setFormatter(console_formatter)
     console_handler.addFilter(URLFilter())
     root_logger.addHandler(console_handler)
     
-    # Also suppress the googleapiclient.discovery logger
+    # Suppress noisy loggers
     logging.getLogger('googleapiclient.discovery').setLevel(logging.WARNING)
-
-# OAuth 2.0 credentials
-SCOPES = [
-    'https://www.googleapis.com/auth/contacts.readonly',
-    'https://www.googleapis.com/auth/gmail.readonly',
-    'https://www.googleapis.com/auth/gmail.labels',
-    'https://www.googleapis.com/auth/gmail.modify'
-]
-
-# Set to True to prevent any modifications to Gmail/Contacts
-DRY_RUN = True
-
-CLIENT_ID = os.getenv('CLIENT_ID')
-CLIENT_SECRET = os.getenv('CLIENT_SECRET')
-REDIRECT_URI = 'http://localhost:3000/oauth2callback'
-TOKEN_FILE = 'token.pickle'
-
-# Regex pattern for valid KEEP labels
-KEEP_LABEL_PATTERN = r'^KEEP(?:_\d{1,3}[DWMY])?$'
-EARLIEST_DATE = datetime(1900, 1, 1).date()
-DEFAULT_EXPIRY_DELTA = relativedelta(weeks=2)
-
-def is_keep_label(label_name):
-    """Check if the label follows the valid KEEP format."""
-    return bool(re.match(KEEP_LABEL_PATTERN, label_name))
+    logging.getLogger('google.auth.transport.requests').setLevel(logging.WARNING)
+    logging.getLogger('urllib3.connectionpool').setLevel(logging.WARNING)
 
 def get_oauth_flow():
     """Create and return OAuth 2.0 flow instance."""
-    client_config = {
-        "installed": {
-            "client_id": CLIENT_ID,
-            "client_secret": CLIENT_SECRET,
-            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-            "token_uri": "https://oauth2.googleapis.com/token",
-            "redirect_uris": ["http://localhost", "urn:ietf:wg:oauth:2.0:oob"]
-        }
-    }
     return InstalledAppFlow.from_client_config(
-        client_config, 
+        OAUTH2_CONFIG,
         SCOPES,
         redirect_uri="urn:ietf:wg:oauth:2.0:oob"
     )
@@ -148,31 +214,21 @@ def get_credentials():
     credentials = None
     
     if os.path.exists(TOKEN_FILE):
-        logging.info("Loading saved credentials...")
         with open(TOKEN_FILE, 'rb') as token:
             credentials = pickle.load(token)
     
     if not credentials or not credentials.valid:
         if credentials and credentials.expired and credentials.refresh_token:
-            logging.info("Refreshing expired credentials...")
-            credentials.refresh(Request())
+            try:
+                credentials.refresh(Request())
+            except Exception as e:
+                logging.error(f"Error refreshing credentials: {e}")
+                os.remove(TOKEN_FILE)
+                return get_credentials()
         else:
-            logging.info("Getting new credentials...")
             flow = get_oauth_flow()
-            auth_url = flow.authorization_url()
-            logging.info('Please authorize this app by visiting: %s', auth_url[0])
+            credentials = flow.run_local_server(port=0)
             
-            # Get authorization code from user
-            import sys
-            if len(sys.argv) > 1:
-                code = sys.argv[1]
-            else:
-                code = input('Enter the authorization code: ')
-            
-            flow.fetch_token(code=code)
-            credentials = flow.credentials
-        
-        logging.info("Saving credentials for future use...")
         with open(TOKEN_FILE, 'wb') as token:
             pickle.dump(credentials, token)
     
@@ -181,79 +237,8 @@ def get_credentials():
 def get_keep_contactgroups_emailaddrs(service) -> Dict[str, List[str]]:
     """Get list of email addresses for each 'KEEP' group."""
 
-    keep_groups_emailaddrs = defaultdict(list)
-    
-    try:
-        # First get all contact groups
-        results = service.contactGroups().list().execute()
-        groups = results.get('contactGroups', [])
-        
-        # Find groups that match KEEP pattern
-        keep_groups = ContactGroups(groups=[ContactGroup.from_dict(group) for group in groups if is_keep_label(group.get('name', ''))])
-
-        if keep_groups.cnt > 0:
-            logging.info(f"Found {keep_groups.cnt} 'KEEP' groups: {', '.join(keep_groups.group_names)}")
-        else:
-            logging.warning("No 'KEEP' groups found")
-            return defaultdict(list)
-            
-        # For each 'KEEP' group, get its members
-        for keep_group in keep_groups.groups:
-            try:
-                # Get members of this group
-                members = service.contactGroups().get(
-                    resourceName=keep_group.resource_name,
-                    maxMembers=1000
-                ).execute()
-                
-                member_resource_names = members.get('memberResourceNames', [])
-                if member_resource_names:
-                    logging.debug(f"Found {len(member_resource_names)} contacts in group {keep_group.formatted_name}")
-                else:
-                    logging.info(f"No members found in group {keep_group.formatted_name}")
-                    continue
-                                    
-                # Get details for each contact
-                # Process in batches to avoid quota limits
-                batch_size = 50
-                for i in range(0, len(member_resource_names), batch_size):
-                    batch = member_resource_names[i:i + batch_size]
-                    
-                    # Create batch request
-                    batch_get = service.people().getBatchGet(
-                        resourceNames=batch,
-                        personFields='emailAddresses,names'
-                    ).execute()
-                    
-                    responses = batch_get.get('responses', [])
-                    logging.info(f"Processing contacts in group {keep_group.formatted_name}")                        
-                    for response in responses:
-                        person = response.get('person', {})
-                        names = person.get('names', [])
-                        email_addresses = person.get('emailAddresses', [])
-                        display_names = [name['displayName'] for name in person.get('names', [])]
-                        name = names[0].get('displayName') if names else 'Unknown'
-
-                        if email_addresses:
-                            for email_address in email_addresses:
-                                email = email_address['value']
-                                keep_groups_emailaddrs[keep_group.formatted_name].append(email)
-
-                            logging.info(f"  Processing contact")                        
-                            logging.info(f"    names: {', '.join(display_names)}")
-                            logging.info(f"    email addresses: {', '.join([email_address['value'] for email_address in email_addresses])}")
-                            logging.info(f"    added {len(email_addresses)} emails to group: {keep_group.formatted_name}")
-                            logging.info(f"    total emails in group: {len(keep_groups_emailaddrs[keep_group.formatted_name])}")
-
-            except Exception as e:
-                logging.error(f"Error processing group {keep_group.formatted_name}: {str(e)}")
-                logging.error(traceback.format_exc())
-                continue
-    
-    except Exception as e:
-        logging.error(f"Error getting contact groups: {str(e)}")
-        logging.error(traceback.format_exc())
-        raise
+    people_service = PeopleService(service)
+    keep_groups_emailaddrs = people_service.get_keep_contacts()
     
     logging.info("Contacts by KEEP label:")
     logging.info(json.dumps(keep_groups_emailaddrs, indent=2))
@@ -445,7 +430,7 @@ def apply_missing_labels(service, email_verification: Dict[str, Dict[str, List[s
             continue
 
         logging.info(f"\nProcessing {email}...")
-        if DRY_RUN:
+        if True:  # DRY_RUN
             logging.info(f"DRY RUN: Would apply labels {missing_labels} to messages from {email}")
             continue
 
@@ -500,7 +485,7 @@ def apply_missing_labels(service, email_verification: Dict[str, Dict[str, List[s
     end_time = time.time()
     duration = end_time - start_time
     
-    if not DRY_RUN:
+    if not True:  # DRY_RUN
         logging.info(f"\nLabel application complete:")
         logging.info(f"Total messages processed: {total_messages_processed}")
         logging.info(f"Total labels applied: {total_labels_applied}")
@@ -512,7 +497,7 @@ def apply_missing_labels(service, email_verification: Dict[str, Dict[str, List[s
     
     return stats
 
-def get_keep_label_expiry(label_name: str) -> Optional[datetime]:
+def get_keep_label_expiry(label_name: str) -> Optional[date]:
     """
     Get the expiration date for a KEEP label by adding the appropriate duration
     to the current date. Returns None for the base KEEP label which does not expire.
@@ -530,65 +515,57 @@ def get_keep_label_expiry(label_name: str) -> Optional[datetime]:
     if label_name == 'KEEP':
         return None
         
-    match = re.match(r'^KEEP_(\d+)([DWMY])$', label_name)
+    match = KEEP_DURATION_PATTERN.match(label_name)
     if not match:
-        raise ValueError(f"Invalid KEEP label format: {label_name}")
+        logging.warning(f"Invalid KEEP label format: {label_name}")
+        return None
         
-    number = int(match.group(1))
+    amount = int(match.group(1))
     unit = match.group(2)
     
-    now = datetime.now().date()
-    
-    if unit == 'D':
-        return now + relativedelta(days=number)
-    elif unit == 'W':
-        return now + relativedelta(weeks=number)
-    elif unit == 'M':
-        return now + relativedelta(months=number)
-    elif unit == 'Y':
-        return now + relativedelta(years=number)
-    else:
-        raise ValueError(f"Invalid time unit in 'KEEP' label: {unit}")
+    if unit not in TIME_UNITS:
+        logging.warning(f"Invalid time unit in label {label_name}: {unit}")
+        return None
+        
+    # Convert the unit to a relativedelta argument
+    unit_arg = {TIME_UNITS[unit]: amount}
+    return datetime.now().date() + relativedelta(**unit_arg)
 
-def get_thread_expiry_date(gmail_service, thread_id: str, keep_labels_gmail: Dict[str, str]) -> Optional[datetime]:
+def get_thread_expiry_date(gmail_service, thread_id: str, keep_labels_gmail: Dict[str, str]) -> date:
     """
     Determine the latest date a thread can be deleted by examining all emails
     and their 'KEEP' labels within the thread.
     """
     thread = gmail_service.users().threads().get(userId='me', id=thread_id).execute()
-
-    latest_expiry = latest_message = EARLIEST_DATE    # Latest expiry date found in thread
-
+    latest_expiry = latest_message = datetime(1900, 1, 1).date()
+    
     for message in thread['messages']:
         msg_date = datetime.fromtimestamp(int(message['internalDate']) / 1000).date()
         if msg_date > latest_message:
             latest_message = msg_date
-
-        # Get all 'KEEP' labels for this message
-        keep_labels_on_message = get_keep_labels_on_message(message, keep_labels_gmail)
-
-        # Calculate expiry date for each 'KEEP' label
-        for label in keep_labels_on_message.values():
+            
+        # Get all KEEP labels on this message
+        keep_labels = get_keep_labels_on_message(message, keep_labels_gmail)
+        
+        for label_id, label in keep_labels.items():
+            # Get expiry date for this label
             label_expiry = get_keep_label_expiry(label)
-
-            if label_expiry is None:  
-                # "KEEP" label - message and thread do not expire
-                return None
             
-            # Add the label's duration to the message date
-            msg_expiry = msg_date + (label_expiry - datetime.now().date())
-            
-            # Update latest expiry
-            if msg_expiry > latest_expiry:
-                latest_expiry = msg_expiry
+            # If this is a base KEEP label, thread never expires
+            if label_expiry is None:
+                return datetime(9999, 12, 31).date()  # Far future date
                 
-        if latest_expiry == EARLIEST_DATE:
-            # No 'KEEP' labels found on this message, calculate default expiry for this thread
-           latest_expiry = latest_message + DEFAULT_EXPIRY_DELTA
-
+            # Update latest expiry if this label's expiry is later
+            if label_expiry > latest_expiry:
+                latest_expiry = label_expiry
+                
+    # If no expiry found, use default expiry (2 weeks from latest message)
+    if latest_expiry == datetime(1900, 1, 1).date():
+        latest_expiry = latest_message + relativedelta(weeks=2)
+        
     return latest_expiry
 
-def get_keep_labels_on_message(message: Dict, keep_labels_gmail: Dict) -> Dict[str, str]:
+def get_keep_labels_on_message(message: Dict, keep_labels_gmail: Dict) -> Dict:
     label_ids_message = message.get('labelIds', [])
     return {label_id: keep_labels_gmail[label_id] 
                 for label_id in label_ids_message
@@ -623,8 +600,7 @@ def process_expired_threads(gmail_service, dry_run: bool = True):
         
         # Construct query with explicit OR conditions for each KEEP label
         label_conditions = ' OR '.join(label_name for label_name in keep_labels_gmail.values())
-        # specific_query = f'subject:"Shellie White" AND ({label_conditions})'
-        query = f'subject:"Shellie White" AND ({label_conditions})'
+        query = f'({label_conditions})'
 
         # logging.info(f"Searching with query: {specific_query}")
         # specific_results = gmail_service.users().threads().list(
@@ -771,7 +747,7 @@ def main():
     # Setup logging
     setup_logging()
     
-    if DRY_RUN:
+    if True:  # DRY_RUN
         logging.info("Running in DRY RUN mode - no changes will be made")
     
     # Get credentials
@@ -782,7 +758,8 @@ def main():
     people_service = build('people', 'v1', credentials=credentials)
 
     # Get contacts with KEEP labels
-    keep_contact_groups_emailaddrs = get_keep_contactgroups_emailaddrs(people_service)
+    people_service_instance = PeopleService(people_service)
+    keep_contact_groups_emailaddrs = people_service_instance.get_keep_contacts()
     
     # Get mapping of emails to their required labels
     email_label_requirements = get_email_label_requirements(keep_contact_groups_emailaddrs)
@@ -885,12 +862,12 @@ def main():
                     
                     # Get message date and calculate expiry
                     msg_date = datetime.fromtimestamp(int(message['internalDate']) / 1000)
-                    expiry = msg_date + timedelta(days=2)
+                    expiry = msg_date + relativedelta(days=2)
                     logging.info(f"Message date: {msg_date}, Expiry date: {expiry}")
 
     # Process expired threads
     logging.info("Processing expired threads...")
-    expired_threads = process_expired_threads(gmail_service, dry_run=DRY_RUN)
+    expired_threads = process_expired_threads(gmail_service, dry_run=True)
     logging.info("Expired Threads Summary:")
     logging.info(f"Threads processed: {expired_threads['threads_processed']}")
     logging.info(f"Threads expired: {expired_threads['threads_expired']}")
